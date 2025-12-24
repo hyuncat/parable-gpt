@@ -1,0 +1,2336 @@
+{
+  "title": "Dhammapada",
+  "subtitle": "The Path of Dhamma",
+  "description": "A collection of 423 verses from the Buddha's teachings, organized into 26 chapters covering the essential principles of Buddhist wisdom and practice.",
+  "language": "English",
+  "translator": "Various translators including Acharya Buddharakkhita, Thanissaro Bhikkhu, and others",
+  "source": "Khuddaka Nikaya, Sutta Pitaka, Pali Tipitaka",
+  "religion": "Buddhism",
+  "total_verses": 423,
+  "total_chapters": 26,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Yamakavagga",
+      "title_english": "The Pairs",
+      "verse_range": [1, 20],
+      "verses": [
+        {
+          "number": 1,
+          "pali": "Manopubbañgamā dhammā manoseṭṭhā manomayā; manasā ce paduṭṭhena bhāsati vā karoti vā tato naṃ dukkham anveti cakkaṃ va vahato padaṃ.",
+          "english": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox."
+        },
+        {
+          "number": 2,
+          "pali": "Manopubbañgamā dhammā manoseṭṭhā manomayā; manasā ce pasannena bhāsati vā karoti vā tato naṃ sukham anveti chāyā va anapāyinī.",
+          "english": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow."
+        },
+        {
+          "number": 3,
+          "pali": "\"Akkocchi maṃ, avadhi maṃ, ajini maṃ, ahāsi me,\" ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+          "english": "\"He abused me, he struck me, he overpowered me, he robbed me\"—those who harbor such thoughts do not still their hatred."
+        },
+        {
+          "number": 4,
+          "pali": "\"Akkocchi maṃ, avadhi maṃ, ajini maṃ, ahāsi me,\" ye ca taṃ n'upanayhanti, veraṃ tes'ūpasammati.",
+          "english": "\"He abused me, he struck me, he overpowered me, he robbed me\"—those who do not harbor such thoughts still their hatred."
+        },
+        {
+          "number": 5,
+          "pali": "Na hi verena verāni sammant'īdha kudācanaṃ, averena ca sammanti: esa dhammo sanantano.",
+          "english": "Hatred is never appeased by hatred in this world; by non-hatred alone is hatred appeased. This is an eternal law."
+        },
+        {
+          "number": 6,
+          "pali": "Pare ca na vijānanti, mayam ettha yamāmase; ye ca tattha vijānanti, tato sammanti medhagā.",
+          "english": "There are those who do not realize that one day we all must die, but those who realize this settle their quarrels."
+        },
+        {
+          "number": 7,
+          "pali": "Subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ bhojanamhi cāmattaññuṃ kusītaṃ hīnavīriyaṃ, taṃ ve pasahati Māro vāto rukkhaṃ va dubbalaṃ.",
+          "english": "Just as a storm throws down a weak tree, so does Māra overpower one who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent and dissipated."
+        },
+        {
+          "number": 8,
+          "pali": "Asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ bhojanamhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ, taṃ ve nappasahati Māro vāto selaṃ va pabbataṃ.",
+          "english": "Just as a storm cannot throw down a rocky mountain, so Māra can never overpower one who lives meditating on the impurities, who is controlled in his senses, moderate in eating, and filled with faith and earnest effort."
+        },
+        {
+          "number": 9,
+          "pali": "Anikkasāvo kāsāvaṃ yo vatthaṃ paridahissati apeto damasaccena, na so kāsāvam arahati.",
+          "english": "Whoever wears the monk's yellow robe while being depraved, devoid of self-control and truthfulness, he surely is not worthy of the yellow robe."
+        },
+        {
+          "number": 10,
+          "pali": "Yo ca vantakasāv'assa sīlesu susamāhito upeto damasaccena, sa ve kāsāvam arahati.",
+          "english": "But whoever is purged of depravity, well established in virtues, and filled with self-control and truthfulness, he indeed is worthy of the yellow robe."
+        },
+        {
+          "number": 11,
+          "pali": "Asāre sāramatino sāre cāsāradassino, te sāraṃ nādhigacchanti micchāsañkappagocarā.",
+          "english": "Those who mistake the unessential to be essential and the essential to be unessential, dwelling in wrong thoughts, never arrive at the essential."
+        },
+        {
+          "number": 12,
+          "pali": "Sārañ ca sārato ñatvā asārañ ca asārato, te sāram adhigacchanti sammāsañkappagocarā.",
+          "english": "Those who know the essential to be essential and the unessential to be unessential, dwelling in right thoughts, arrive at the essential."
+        },
+        {
+          "number": 13,
+          "pali": "Yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati, evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati.",
+          "english": "Just as the rain breaks through an ill-thatched house, even so passion penetrates an undeveloped mind."
+        },
+        {
+          "number": 14,
+          "pali": "Yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati, evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati.",
+          "english": "Just as the rain does not break through a well-thatched house, even so passion never penetrates a well-developed mind."
+        },
+        {
+          "number": 15,
+          "pali": "Idha socati pecca socati, pāpakārī ubhayattha socati; so socati so vihaññati, disvā kammakiliṭṭham attano.",
+          "english": "The evil-doer grieves here, he grieves hereafter; he grieves in both worlds. He laments and is afflicted, recollecting his own impure deeds."
+        },
+        {
+          "number": 16,
+          "pali": "Idha modati pecca modati, katapuñño ubhayattha modati; so modati so pamodati, disvā kammavisuddhim attano.",
+          "english": "The doer of good rejoices here, he rejoices hereafter; he rejoices in both worlds. He rejoices and exults, recollecting his own pure deeds."
+        },
+        {
+          "number": 17,
+          "pali": "Idha tappati pecca tappati, pāpakārī ubhayattha tappati; pāpaṃ me katan ti tappati, bhiyyo tappati duggatim gato.",
+          "english": "The evil-doer suffers here, he suffers hereafter; he suffers in both worlds. The thought, \"Evil have I done,\" torments him, and he suffers even more when gone to realms of woe."
+        },
+        {
+          "number": 18,
+          "pali": "Idha nandati pecca nandati, katapuñño ubhayattha nandati; puññaṃ me katan ti nandati, bhiyyo nandati suggatim gato.",
+          "english": "The doer of good delights here, he delights hereafter; he delights in both worlds. The thought, \"Good have I done,\" delights him, and he delights even more when gone to realms of bliss."
+        },
+        {
+          "number": 19,
+          "pali": "Bahum pi ce sahitaṃ bhāsamāno na takkaro hoti naro pamatto gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti.",
+          "english": "Although he recites many sacred texts, if he does not act accordingly, that heedless man is like a cowherd who only counts the cattle of others—he does not partake of the blessings of a holy life."
+        },
+        {
+          "number": 20,
+          "pali": "Appam pi ce sahitaṃ bhāsamāno dhammassa hoti anudhammacārī rāgañ ca dosañ ca pahāya mohaṃ sammappajāno suvimuttacitto anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+          "english": "Although he recites few sacred texts, if he puts the Dhamma into practice, forsaking lust, hatred, and delusion, with true wisdom and emancipated mind, clinging to nothing in this or any other world—he, indeed, partakes of the blessings of a holy life."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Appamādavagga",
+      "title_english": "Heedfulness",
+      "verse_range": [21, 32],
+      "verses": [
+        {
+          "number": 21,
+          "pali": "Appamādo amatapadaṃ, pamādo maccuno padaṃ; appamattā na mīyanti, ye pamattā yathā matā.",
+          "english": "Heedfulness is the path to the Deathless, heedlessness is the path to death. The heedful do not die, the heedless are already dead."
+        },
+        {
+          "number": 22,
+          "pali": "Etaṃ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṃ gocare ratā.",
+          "english": "Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the noble ones."
+        },
+        {
+          "number": 23,
+          "pali": "Te jhāyino sātatikā niccaṃ daḷhaparakkamā, phusanti dhīrā nibbānaṃ yogakkhemaṃ anuttaraṃ.",
+          "english": "The wise ones, ever meditative and steadfastly persevering, experience Nibbāna, the incomparable freedom from bondage."
+        },
+        {
+          "number": 24,
+          "pali": "Uṭṭhānavato satimato sucikammassa nisammakārino saññatassa ca dhammajīvino appamattassa yaso' bhivaḍḍhati.",
+          "english": "Ever grows the glory of one who is energetic, mindful, and pure in conduct, discerning and self-controlled, righteous and heedful."
+        },
+        {
+          "number": 25,
+          "pali": "Uṭṭhānen'appamādena saññamena damena ca dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati.",
+          "english": "By effort and heedfulness, discipline and self-mastery, let the wise one make for himself an island which no flood can overwhelm."
+        },
+        {
+          "number": 26,
+          "pali": "Pamādam anuyuñjanti bālā dummedhino janā, appamādañ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati.",
+          "english": "The foolish and ignorant indulge in heedlessness, but the wise one guards heedfulness as his best treasure."
+        },
+        {
+          "number": 27,
+          "pali": "Mā pamādam anuyuñjetha, mā kāmaratisanthavaṃ; appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ.",
+          "english": "Do not give way to heedlessness; do not indulge in sensual pleasures. Only the heedful and meditative attain great happiness."
+        },
+        {
+          "number": 28,
+          "pali": "Pamādaṃ appamādena yadā nudati paṇḍito, paññāpāsādam āruyha asoko sokiniṃ pajaṃ, pabbataṭṭho va bhummaṭṭhe, dhīro bāle avekkhati.",
+          "english": "Just as one upon the summit of a mountain beholds the groundlings, even so when the wise man casts away heedlessness by heedfulness and ascends the high tower of wisdom, this sorrowless sage beholds the sorrowing and foolish multitude."
+        },
+        {
+          "number": 29,
+          "pali": "Appamatto pamattesu suttesu bahujāgaro abalassaṃ va sīghasso hitvā yāti sumedhaso.",
+          "english": "Heedful among the heedless, wide awake among the sleepy, the wise man advances like a swift horse leaving behind a weak nag."
+        },
+        {
+          "number": 30,
+          "pali": "Appamādena Maghavā devānaṃ seṭṭhataṃ gato; appamādaṃ pasaṃsanti pamādo garahito sadā.",
+          "english": "By heedfulness did Indra become the overlord of the gods. Heedfulness is ever praised, and heedlessness ever despised."
+        },
+        {
+          "number": 31,
+          "pali": "Appamādarato bhikkhu pamāde bhayadassivā saññojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggī va gacchati.",
+          "english": "The monk who delights in heedfulness and looks with fear at heedlessness advances like fire, burning all fetters subtle and coarse."
+        },
+        {
+          "number": 32,
+          "pali": "Appamādarato bhikkhu pamāde bhayadassivā abhabbo parihānāya, nibbānass'eva santike.",
+          "english": "The monk who delights in heedfulness and looks with fear at heedlessness will not fall. He is close to Nibbāna."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Cittavagga",
+      "title_english": "The Mind",
+      "verse_range": [33, 43],
+      "verses": [
+        {
+          "number": 33,
+          "pali": "Phandanaṃ capalaṃ cittaṃ durakkhaṃ dunnivārayaṃ ujuṃ karoti medhāvī usukāro va tejanaṃ.",
+          "english": "Just as an arrow-maker straightens an arrow shaft, even so the discerning person straightens his mind—so fickle and unsteady, so difficult to guard and control."
+        },
+        {
+          "number": 34,
+          "pali": "Vārijo va thale khitto okamokata ubbhato, pariphandatidaṃ cittaṃ Māradheyyaṃ pahātave.",
+          "english": "As a fish when pulled out of water and cast on land throbs and quivers, even so is this mind agitated. Hence one should leave the realm of Māra."
+        },
+        {
+          "number": 35,
+          "pali": "Dunniggahassa lahuno yatthakāmanipātino cittassa damatho sādhu: cittaṃ dantaṃ sukhāvahaṃ.",
+          "english": "Wonderful, indeed, it is to subdue the mind, so difficult to subdue, ever swift, and wandering wherever it desires. A tamed mind brings happiness."
+        },
+        {
+          "number": 36,
+          "pali": "Sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ cittaṃ rakkhetha medhāvī: cittaṃ guttaṃ sukhāvahaṃ.",
+          "english": "Let the discerning person guard his mind, so difficult to detect and extremely subtle, wandering wherever it desires. A guarded mind brings happiness."
+        },
+        {
+          "number": 37,
+          "pali": "Dūraṅgamaṃ ekacaraṃ asarīraṃ guhāsayaṃ ye cittaṃ saññamessanti mokkhanti Mārabandhanā.",
+          "english": "Dwelling in the cave (of the heart), without form, the mind wanders far and moves alone. Those who subdue this mind are liberated from the bonds of Māra."
+        },
+        {
+          "number": 38,
+          "pali": "Anavaṭṭhitacittassa saddhammaṃ avijānato pariplavapasādassa paññā na paripūrati.",
+          "english": "Wisdom is not perfected in one whose mind is not steadfast, who knows not the Good Teaching, and whose faith wavers."
+        },
+        {
+          "number": 39,
+          "pali": "Anavassutacittassa ananvāhatacetaso puññapāpapahīnassa natthi jāgarato bhayaṃ.",
+          "english": "There is no fear for an Awakened One, whose mind is not sodden (by lust) nor afflicted (by hate), and who has gone beyond both merit and demerit."
+        },
+        {
+          "number": 40,
+          "pali": "Kumbhūpamaṃ kāyam imaṃ viditvā, nagarūpamaṃ cittam idaṃ ṭhapetvā, yodhetha Māraṃ paññāvudhena, jitañ ca rakkhe anivesano siyā.",
+          "english": "Realizing that this body is as fragile as a clay pot, and fortifying this mind like a well-fortified city, fight out Māra with the sword of wisdom. Then, guarding the conquest, remain unattached."
+        },
+        {
+          "number": 41,
+          "pali": "Aciraṃ vatayaṃ kāyo paṭhaviṃ adhisessati chuddho apetaviññāno niratthaṃ va kalingaraṃ.",
+          "english": "Before long, alas, this body will lie upon the earth, cast away and lifeless, like a useless log."
+        },
+        {
+          "number": 42,
+          "pali": "Diso disaṃ yaṃ taṃ kayirā verī vā pana verinaṃ, micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare.",
+          "english": "Whatever harm an enemy may do to an enemy, or a hater to a hater, an ill-directed mind inflicts on oneself greater harm."
+        },
+        {
+          "number": 43,
+          "pali": "Na taṃ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare.",
+          "english": "Neither mother, father, nor any other relative can do one greater good than one's own well-directed mind."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Pupphavagga",
+      "title_english": "Flowers",
+      "verse_range": [44, 59],
+      "verses": [
+        {
+          "number": 44,
+          "pali": "Ko imaṃ paṭhaviṃ vijessati Yamalokañ ca imaṃ sadevakaṃ? ko dhammapadaṃ sudesitaṃ kusalo puppham iva pacessati?",
+          "english": "Who shall overcome this earth, the world of misery, and this sphere of humans and gods? Who shall bring to perfection the well-taught path of wisdom as an expert garland-maker would his floral design?"
+        },
+        {
+          "number": 45,
+          "pali": "Sekho paṭhaviṃ vijessati Yamalokañ ca imaṃ sadevakaṃ, sekho dhammapadaṃ sudesitaṃ kusalo puppham iva pacessati.",
+          "english": "A striver-on-the-path shall overcome this earth, the world of misery, and this sphere of humans and gods. The striver-on-the-path shall bring to perfection the well-taught path of wisdom, as an expert garland-maker would his floral design."
+        },
+        {
+          "number": 46,
+          "pali": "Pheṇūpamaṃ kāyam imaṃ viditvā marīcidhammaṃ abhisambudhāno chetvāna Mārassa papupphakāni adassanaṃ Maccurājassa gacche.",
+          "english": "Realizing that this body is like froth, penetrating its mirage-like nature, and plucking out Māra's flower-tipped arrows (of sensuality), go beyond sight of the King of Death!"
+        },
+        {
+          "number": 47,
+          "pali": "Pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ suttaṃ gāmaṃ mahogho va maccu ādāya gacchati.",
+          "english": "As a mighty flood sweeps away the sleeping village, so Death carries away the person of grasping mind who only collects the flowers (of pleasure)."
+        },
+        {
+          "number": 48,
+          "pali": "Pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ atittaṃ yeva kāmesu antako kurute vasaṃ.",
+          "english": "The Destroyer brings under his sway the person of grasping mind who, insatiate in sense desires, only collects the flowers (of pleasure)."
+        },
+        {
+          "number": 49,
+          "pali": "Yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ paleti rasam ādāya evaṃ gāme munī care.",
+          "english": "As a bee gathers honey from the flower without injuring its colour or fragrance, even so the sage should go on his alms round in the village."
+        },
+        {
+          "number": 50,
+          "pali": "Na paresaṃ vilomāni na paresaṃ katākataṃ attano va avekkheyya katāni akatāni ca.",
+          "english": "Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone."
+        },
+        {
+          "number": 51,
+          "pali": "Yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ, evaṃ subhāsitā vācā aphalā hoti akubbato.",
+          "english": "Like a beautiful flower full of colour but without fragrance, even so, fruitless are the fair words of one who does not practice them."
+        },
+        {
+          "number": 52,
+          "pali": "Yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ, evaṃ subhāsitā vācā saphalā hoti sakubbato.",
+          "english": "Like a beautiful flower full of colour and also fragrant, even so, fruitful are the fair words of one who practices them."
+        },
+        {
+          "number": 53,
+          "pali": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ.",
+          "english": "As from a great heap of flowers many garlands can be made, even so should many good deeds be done by one born a mortal."
+        },
+        {
+          "number": 54,
+          "pali": "Na pupphagandho paṭivātam eti, na candanaṃ tagaramallikā vā, satañ ca gandho paṭivātam eti; sabbā disā sappuriso pavāti.",
+          "english": "Not the sweet smell of flowers, not even the fragrance of sandal, tagara, or jasmine goes against the wind. But the fragrance of the virtuous goes against the wind. The virtuous person pervades all directions with the fragrance of virtue."
+        },
+        {
+          "number": 55,
+          "pali": "Candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī, etesaṃ gandhajātānaṃ sīlagandho anuttaro.",
+          "english": "Of all the fragrances—sandal, tagara, blue lotus, and jasmine—the fragrance of virtue is by far the sweetest."
+        },
+        {
+          "number": 56,
+          "pali": "Appamatto ayaṃ gandho yāyaṃ tagaracandanī, yo ca sīlavataṃ gandho vāti devesu uttamo.",
+          "english": "Faint is the fragrance of tagara and sandal, but the fragrance of the virtuous is excellent, wafting even among the gods."
+        },
+        {
+          "number": 57,
+          "pali": "Tesaṃ sampannasīlānaṃ appamādavihārinaṃ sammadaññā vimuttānaṃ Māro maggaṃ na vindati.",
+          "english": "Māra never finds the path of the truly virtuous, who abide in vigilance and are freed by perfect knowledge."
+        },
+        {
+          "number": 58,
+          "pali": "Yathā saṅkāradhānasmiṃ ujjhitasmiṃ mahāpathe padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ.",
+          "english": "As upon a heap of rubbish in the roadside ditch blooms a lotus, fragrant and pleasing,"
+        },
+        {
+          "number": 59,
+          "pali": "Evaṃ saṅkārabhūtesu andhabhūte puthujjane atirocati paññāya Sammāsambuddhasāvako.",
+          "english": "even so, on the rubbish heap of blind worldlings the disciple of the Supremely Enlightened One shines resplendent in wisdom."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Bālavagga",
+      "title_english": "The Fool",
+      "verse_range": [60, 75],
+      "verses": [
+        {
+          "number": 60,
+          "pali": "Dīghā jāgarato ratti, dīghaṃ santassa yojanaṃ, dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ.",
+          "english": "Long is the night to the wakeful; long is the league to the weary. Long is worldly existence to fools who know not the sublime truth."
+        },
+        {
+          "number": 61,
+          "pali": "Carañ ce nādhigaccheyya seyyaṃ sadisamattano, ekacariyaṃ daḷhaṃ kayirā, natthi bāle sahāyatā.",
+          "english": "If, as the disciple fares along, he meets no companion who is better or equal, let him firmly pursue the solitary path; there is no fellowship with the fool."
+        },
+        {
+          "number": 62,
+          "pali": "\"Puttā m'atthi, dhanaṃ m'atthi,\" iti bālo vihaññati. Attā hi attano natthi, kuto puttā, kuto dhanaṃ?",
+          "english": "\"Sons are mine, wealth is mine\"—with such thoughts a fool is tormented. He himself is not his own; how much less sons and wealth?"
+        },
+        {
+          "number": 63,
+          "pali": "Yo bālo maññati bālyaṃ paṇḍito so tato hoti, bālo ca paṇḍitamānī sa ve bālo ti vuccati.",
+          "english": "The fool who knows his foolishness is wise at least to that extent, but a fool who thinks himself wise is called a fool indeed."
+        },
+        {
+          "number": 64,
+          "pali": "Yāvajīvam pi ce bālo paṇḍitaṃ payirupāsati, na so dhammaṃ vijānāti dabbī rasaṃ yathā.",
+          "english": "Even though a fool associates with a wise man all his life, he will perceive the truth as little as a spoon perceives the taste of soup."
+        },
+        {
+          "number": 65,
+          "pali": "Muhuttam api ce viññū paṇḍitaṃ payirupāsati, khippaṃ dhammaṃ vijānāti jivhā rasaṃ yathā.",
+          "english": "Even though a wise man associates with a wise man only a moment, he will immediately perceive the truth, just as the tongue perceives the taste of soup."
+        },
+        {
+          "number": 66,
+          "pali": "Caranti bālā dummedhā amitteneva attanā, karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ.",
+          "english": "Fools of little understanding have themselves for their greatest enemies, for they do evil deeds which must bear bitter fruits."
+        },
+        {
+          "number": 67,
+          "pali": "Na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati, yassa assumukho rodaṃ vipākaṃ paṭisevati.",
+          "english": "That deed is not well done of which a man must repent, and the reward of which he receives crying and with a tearful face."
+        },
+        {
+          "number": 68,
+          "pali": "Tañ ca kammaṃ kataṃ sādhu yaṃ katvā nānutappati, yassa patīto sumano vipākaṃ paṭisevati.",
+          "english": "That deed is well done of which a man does not repent, and the reward of which he receives gladly and cheerfully."
+        },
+        {
+          "number": 69,
+          "pali": "Madhuvā maññati bālo yāva pāpaṃ na paccati, yadā ca paccati pāpaṃ atha bālo dukkhaṃ nigacchati.",
+          "english": "As long as the evil deed does not bear fruit, the fool thinks it is like honey; but when it ripens, then the fool suffers grief."
+        },
+        {
+          "number": 70,
+          "pali": "Māse māse kusaggena bālo bhuñjeyya bhojanaṃ, na so saṅkhātadhammānaṃ kalaṃ agghati soḷasiṃ.",
+          "english": "Month after month the fool may eat his food with the tip of a blade of grass, but he is not worth the sixteenth part of those who have comprehended the truth."
+        },
+        {
+          "number": 71,
+          "pali": "Na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va muccati, ḍahantaṃ bālamanveti bhasmacchanno va pāvako.",
+          "english": "An evil deed, like newly-drawn milk, does not turn sour immediately; smouldering, it follows the fool like fire covered by ashes."
+        },
+        {
+          "number": 72,
+          "pali": "Yāvad eva anatthāya ñattaṃ bālassa jāyati, hanti bālassa sukkaṃsaṃ muddham assa vipātayaṃ.",
+          "english": "To his own ruin the fool gains knowledge and fame, for they destroy his bright nature and cleave his head."
+        },
+        {
+          "number": 73,
+          "pali": "Asantaṃ bhāvanam iccheyya purekkhārañ ca bhikkhusu, āvāsesu ca issariyaṃ pūjā parakulesu ca.",
+          "english": "The fool seeks undeserved reputation, precedence among monks, authority in the monasteries, and honour among other families."
+        },
+        {
+          "number": 74,
+          "pali": "\"Mayā idaṃ kataṃ\" iti maññantu gihī pabbajitā ca, \"Mayā eva ativattiṃsu kiccākiccesu kismici,\" iti bālassa saṅkappo, icchā māno ca vaḍḍhati.",
+          "english": "\"Let both laymen and monks think that this is done by me; let them be subject to me in this and that matter\"—such is the thought of the fool; his desire and pride increase."
+        },
+        {
+          "number": 75,
+          "pali": "Aññā hi lābhūpanisā aññā nibbānagāminī, evam etaṃ abhiññāya bhikkhu Buddhasāvako sakkāraṃ nābhinandeyya vivekam anubrūhaye.",
+          "english": "One is the road that leads to wealth, another the road that leads to Nibbāna; if the monk, the disciple of the Buddha, has learned this, he will not yearn for honour but will strive for solitude."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Paṇḍitavagga",
+      "title_english": "The Wise",
+      "verse_range": [76, 89],
+      "verses": [
+        {
+          "number": 76,
+          "pali": "Nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ, niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje, tādisaṃ bhajamānassa seyyo hoti na pāpiyo.",
+          "english": "Should one find a man who points out faults and reproves, let him follow such a wise and sagacious person as one would a guide to hidden treasure. It is always better, and never worse, to cultivate such an association."
+        },
+        {
+          "number": 77,
+          "pali": "Ovadeyyānusāseyya asabbhā ca nivāraye, satañ hi so piyo hoti asataṃ hoti dubbhiyo.",
+          "english": "Let him admonish, instruct, and shield one from wrong; he is dear to the good and detestable to the evil."
+        },
+        {
+          "number": 78,
+          "pali": "Na bhaje pāpake mitte na bhaje purisādhame, bhajetha mitte kalyāṇe bhajetha purisuttame.",
+          "english": "Do not associate with evil companions; do not seek the fellowship of the vile. Associate with the good friends; seek the fellowship of noble men."
+        },
+        {
+          "number": 79,
+          "pali": "Dhammapīti sukhaṃ seti vippasannena cetasā, ariyappavedite dhamme sadā ramati paṇḍito.",
+          "english": "He who drinks deeply of the Dhamma lives happily with a tranquil mind. The wise man ever delights in the Dhamma made known by the Noble One (the Buddha)."
+        },
+        {
+          "number": 80,
+          "pali": "Udakaṃ hi nayanti nettikā, usukārā namayanti tejanaṃ, dāruṃ namayanti tacchakā, attānaṃ damayanti paṇḍitā.",
+          "english": "Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves."
+        },
+        {
+          "number": 81,
+          "pali": "Selo yathā ekaghano vātena na samīrati, evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā.",
+          "english": "As a solid rock is unshaken by the wind, even so the wise are unperturbed by praise or blame."
+        },
+        {
+          "number": 82,
+          "pali": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṃ dhammāni sutvāna vippasīdanti paṇḍitā.",
+          "english": "On hearing the Teachings, the wise become perfectly purified, like a lake deep, clear, and still."
+        },
+        {
+          "number": 83,
+          "pali": "Sabbattha ve sappurisā cajanti, na kāmakāmā lapayanti santo, sukhena phuṭṭhā atha vā dukhena na uccāvacaṃ paṇḍitā dassayanti.",
+          "english": "Good people walk on regardless of what happens to them. Good people do not babble, yearning for pleasure. The wise show no elation or depression when touched by happiness or sorrow."
+        },
+        {
+          "number": 84,
+          "pali": "Na attahetu na parassa hetu na puttam icche na dhanaṃ na raṭṭhaṃ, na iccheyya adhammena samiddhim attano, sa sīlavā paññavā dhammiko siyā.",
+          "english": "Neither for the sake of oneself nor for the sake of another (does a wise person do any wrong); he should not desire son, wealth, or kingdom (by doing wrong). By unjust means he should not seek his own success. Then (only) is he virtuous, wise, and righteous."
+        },
+        {
+          "number": 85,
+          "pali": "Appakā te manussesu ye janā pāragāmino, athāyaṃ itarā pajā tīram evānudhāvati.",
+          "english": "Few among men are those who cross to the further shore. The others merely run up and down the hither bank."
+        },
+        {
+          "number": 86,
+          "pali": "Ye ca kho sammadakkhāte dhamme dhammānuvattino, te janā pāram essanti Maccudheyyaṃ suduttaraṃ.",
+          "english": "But those who act according to the perfectly taught Dhamma will cross the realm of Death, so difficult to cross."
+        },
+        {
+          "number": 87,
+          "pali": "Kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito, okā anokam āgamma viveke yattha dūramaṃ.",
+          "english": "Abandoning the dark way, let the wise person cultivate the bright path. Having gone from home to homelessness, let him yearn for that joy in detachment, so difficult to enjoy."
+        },
+        {
+          "number": 88,
+          "pali": "Tatrābhiratim iccheyya hitvā kāme akiñcano, pariyodapeyya attānaṃ cittaklesehi paṇḍito.",
+          "english": "Giving up sensual pleasures, with no attachment, the wise person should cleanse himself of defilements of the mind."
+        },
+        {
+          "number": 89,
+          "pali": "Yesaṃ sambodhiyaṅgesu sammā cittaṃ subhāvitaṃ, ādānapaṭinissagge anupādāya ye ratā, khīṇāsavā jutimanto te loke parinibbutā.",
+          "english": "Those whose minds have reached full excellence in the factors of enlightenment, who having renounced acquisitiveness, rejoice in not clinging to things—rid of cankers, glowing with wisdom, they have attained Nibbāna in this very life."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Arahantavagga",
+      "title_english": "The Arahant",
+      "verse_range": [90, 99],
+      "verses": [
+        {
+          "number": 90,
+          "pali": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+          "english": "There is no suffering for him who has completed the journey, who is sorrowless and wholly set free, and has broken all ties."
+        },
+        {
+          "number": 91,
+          "pali": "Uyyuñjanti satīmanto na nikete ramanti te, haṃsā va pallalaṃ hitvā okam okaṃ jahanti te.",
+          "english": "The mindful ones exert themselves. They are not attached to any home; like swans that abandon the lake, they leave home after home behind."
+        },
+        {
+          "number": 92,
+          "pali": "Yesaṃ sannicayo natthi ye pariññātabhojanā, suññato animitto ca vimokkho yesa gocaro, ākāse va sakuntānaṃ gati tesaṃ durannayā.",
+          "english": "Those who do not accumulate and are wise regarding food, whose object is the Void, the Unconditioned Freedom—their track cannot be traced, like that of birds in the air."
+        },
+        {
+          "number": 93,
+          "pali": "Yassāsavā parikkhīṇā āhāre ca anissito, suññato animitto ca vimokkho yassa gocaro, ākāse va sakuntānaṃ padaṃ tassa durannayaṃ.",
+          "english": "He whose cankers are destroyed and who is not attached to food, whose object is the Void, the Unconditioned Freedom—his path cannot be traced, like that of birds in the air."
+        },
+        {
+          "number": 94,
+          "pali": "Yassindriyāni samathaṅgatāni assā yathā sārathināsudhantā, pahīnamānassa anāsavassa devāpi tassa pihayanti tādino.",
+          "english": "Even the gods hold dear the wise one, whose senses are subdued like horses well trained by a charioteer, whose pride is destroyed and who is free from the cankers."
+        },
+        {
+          "number": 95,
+          "pali": "Paṭhavisamoṃ no virujjhati indakhīlo va tādi tāl, rahado va apetakaddamo saṃsārā na bhavanti tādino.",
+          "english": "Like the earth, a balanced and well-disciplined person is not shaken by praise or blame. He is like a serene lake, clear and undisturbed; the rounds of rebirth do not befall such a one."
+        },
+        {
+          "number": 96,
+          "pali": "Santaṃ tassa manaṃ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+          "english": "Calm is his thought, calm his speech, and calm his deed, who, truly knowing, is wholly freed, perfectly tranquil and wise."
+        },
+        {
+          "number": 97,
+          "pali": "Assaddho akataññū ca sandhicchedo ca yo naro, hatāvakāso vantāso sa ve uttamaporiso.",
+          "english": "The man who is without blind faith, who knows the Uncreated, who has severed all ties, destroyed all causes (for karma, good and evil), and thrown out all desires—he, truly, is the most excellent of men."
+        },
+        {
+          "number": 98,
+          "pali": "Gāme vā yadi vāraññe ninne vā yadi vā thale, yattha arahanto viharanti taṃ bhūmiṃ rāmaṇeyyakaṃ.",
+          "english": "Inspiring, indeed, is that place where Arahants dwell, be it a village or a forest, a vale or a hill."
+        },
+        {
+          "number": 99,
+          "pali": "Ramaṇīyāni araññāni yattha na ramatī jano, vītarāgā ramissanti na te kāmagavesino.",
+          "english": "Inspiring are the forests in which worldlings find no pleasure. There the passionless will rejoice, for they seek no sensual pleasures."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Sahassavagga",
+      "title_english": "The Thousands",
+      "verse_range": [100, 115],
+      "verses": [
+        {
+          "number": 100,
+          "pali": "Sahassamapi ce vācā anatthapadasaṃhitā, ekaṃ atthapadaṃ seyyo yaṃ sutvā upasammati.",
+          "english": "Better than a thousand useless words is one useful word, hearing which one attains peace."
+        },
+        {
+          "number": 101,
+          "pali": "Sahassamapi ce gāthā anatthapadasaṃhitā, ekaṃ gāthāpadaṃ seyyo yaṃ sutvā upasammati.",
+          "english": "Better than a thousand useless verses is one useful verse, hearing which one attains peace."
+        },
+        {
+          "number": 102,
+          "pali": "Yo ca gāthāsataṃ bhāse anatthapadasaṃhitaṃ, ekaṃ dhammapadaṃ seyyo yaṃ sutvā upasammati.",
+          "english": "Better than reciting a hundred meaningless verses is the reciting of one verse of Dhamma, hearing which one attains peace."
+        },
+        {
+          "number": 103,
+          "pali": "Yo sahassaṃ sahassena saṅgāme mānuse jine, ekañ ca jeyyamattānaṃ sa ve saṅgāmajuttamo.",
+          "english": "Though one may conquer a thousand times a thousand men in battle, yet he indeed is the noblest victor who conquers himself."
+        },
+        {
+          "number": 104,
+          "pali": "Attā have jitaṃ seyyo yā cāyaṃ itarā pajā, attadantassa posassa niccaṃ saññatacārino.",
+          "english": "Self-conquest is far better than the conquest of others. Not even a god, an angel, Māra or Brahmā could turn into defeat the victory of a person who is self-subdued and ever restrained in conduct."
+        },
+        {
+          "number": 105,
+          "pali": "Neva devo na gandhabbo na Māro saha Brahmunā, jitaṃ apajitaṃ kayirā tathārūpassa jantuno.",
+          "english": "Not even a god, an angel, Māra or Brahmā could turn into defeat the victory of such a person who is self-subdued and ever restrained in conduct."
+        },
+        {
+          "number": 106,
+          "pali": "Māse māse sahassena yo yajetha sataṃ samaṃ, ekañ ca bhāvitattānaṃ muhuttamapi pūjaye, sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.",
+          "english": "Month after month, for a hundred years, one might make offerings of a thousand (coins), but if only for a moment one honours a self-developed person, that honour is indeed better than a century of sacrifice."
+        },
+        {
+          "number": 107,
+          "pali": "Yo ca vassasataṃ jantu aggiṃ paricare vane, ekañ ca bhāvitattānaṃ muhuttamapi pūjaye, sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ.",
+          "english": "Though for a hundred years a person worships fire in the forest, yet if only for a moment he honours a self-developed person, that honour is indeed better than a century of fire-worship."
+        },
+        {
+          "number": 108,
+          "pali": "Yaṃ kiñci yiṭṭhaṃ va hutaṃ vā loke saṃvaccharaṃ yajetha puññapekkho, sabbampi taṃ na catubhāgameti abhivādanā ujjugatesu.",
+          "english": "Whatever gifts and oblations one seeking merit might offer in this world for a whole year, all that is not worth one fourth of the merit gained by revering the Upright Ones."
+        },
+        {
+          "number": 109,
+          "pali": "Abhivādanasīlissa niccaṃ vuḍḍhāpacāyino, cattāro dhammā vaḍḍhanti āyu vaṇṇo sukhaṃ balaṃ.",
+          "english": "For one who is in the habit of constantly honouring and respecting the elders, four benefits increase: long life, beauty, happiness, and strength."
+        },
+        {
+          "number": 110,
+          "pali": "Yo ca vassasataṃ jīve dussīlo asamāhito, ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino.",
+          "english": "Better it is to live one day virtuous and meditative than to live a hundred years immoral and uncontrolled."
+        },
+        {
+          "number": 111,
+          "pali": "Yo ca vassasataṃ jīve duppañño asamāhito, ekāhaṃ jīvitaṃ seyyo paññavantassa jhāyino.",
+          "english": "Better it is to live one day wise and meditative than to live a hundred years ignorant and uncontrolled."
+        },
+        {
+          "number": 112,
+          "pali": "Yo ca vassasataṃ jīve kusīto hīnavīriyo, ekāhaṃ jīvitaṃ seyyo vīriyamārabhato daḷhaṃ.",
+          "english": "Better it is to live one day strenuous and resolute than to live a hundred years sluggish and dissipated."
+        },
+        {
+          "number": 113,
+          "pali": "Yo ca vassasataṃ jīve apassaṃ udayabbayaṃ, ekāhaṃ jīvitaṃ seyyo passato udayabbayaṃ.",
+          "english": "Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things."
+        },
+        {
+          "number": 114,
+          "pali": "Yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ, ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ.",
+          "english": "Better it is to live one day seeing the Deathless State than to live a hundred years without ever seeing the Deathless State."
+        },
+        {
+          "number": 115,
+          "pali": "Yo ca vassasataṃ jīve apassaṃ dhammamuttamaṃ, ekāhaṃ jīvitaṃ seyyo passato dhammamuttamaṃ.",
+          "english": "Better it is to live one day seeing the Supreme Truth than to live a hundred years without ever seeing the Supreme Truth."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Pāpavagga",
+      "title_english": "Evil",
+      "verse_range": [116, 128],
+      "verses": [
+        {
+          "number": 116,
+          "pali": "Abhittharetha kalyāṇe pāpā cittaṃ nivāraye, dandhañ hi karoto puññaṃ pāpasmiṃ ramatī mano.",
+          "english": "Hasten to do good; restrain your mind from evil. He who is slow in doing good, his mind delights in evil."
+        },
+        {
+          "number": 117,
+          "pali": "Pāpañ ce puriso kayirā na naṃ kayirā punappunaṃ, na tamhi chandaṃ kayirātha dukkho pāpassa uccayo.",
+          "english": "Should a person commit evil, let him not do it again and again. Let him not find pleasure therein, for painful is the accumulation of evil."
+        },
+        {
+          "number": 118,
+          "pali": "Puññañ ce puriso kayirā kayirāth'enaṃ punappunaṃ, tamhi chandaṃ kayirātha sukho puññassa uccayo.",
+          "english": "Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good."
+        },
+        {
+          "number": 119,
+          "pali": "Pāpo pi passati bhadraṃ yāva pāpaṃ na paccati, yadā ca paccati pāpaṃ atha pāpo pāpāni passati.",
+          "english": "It may be well with the evil-doer as long as the evil ripens not. But when it does ripen, then the evil-doer sees (the painful results of) evil deeds."
+        },
+        {
+          "number": 120,
+          "pali": "Bhadro pi passati pāpaṃ yāva bhadraṃ na paccati, yadā ca paccati bhadraṃ atha bhadro bhadrāni passati.",
+          "english": "It may be ill with the doer of good as long as the good ripens not. But when it does ripen, then the doer of good sees (the pleasant results of) good deeds."
+        },
+        {
+          "number": 121,
+          "pali": "Māvamaññetha pāpassa na maṃ taṃ āgamissatī ti, udabindunipātena udakumbho pi pūrati, dhīro pūrati pāpassa thokathokam pi ācinaṃ.",
+          "english": "Think not lightly of evil, saying, \"It will not come to me.\" Drop by drop is the water pot filled. Likewise, the fool, gathering it little by little, fills himself with evil."
+        },
+        {
+          "number": 122,
+          "pali": "Māvamaññetha puññassa na maṃ taṃ āgamissatī ti, udabindunipātena udakumbho pi pūrati, dhīro pūrati puññassa thokathokam pi ācinaṃ.",
+          "english": "Think not lightly of good, saying, \"It will not come to me.\" Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good."
+        },
+        {
+          "number": 123,
+          "pali": "Vāṇijo va bhayaṃ maggaṃ appasattho mahaddhano, visaṃ jīvitukāmo va pāpāni parivajjaye.",
+          "english": "Just as a trader with a small escort and great wealth shuns a perilous route, or just as one desiring to live avoids poison, even so should one shun evil deeds."
+        },
+        {
+          "number": 124,
+          "pali": "Pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ, nābbaṇaṃ visam anveti natthi pāpaṃ akubbato.",
+          "english": "If on the hand there is no wound, one may carry poison in it. Poison does not affect one who is free from wounds. For him who does no evil, there is no ill."
+        },
+        {
+          "number": 125,
+          "pali": "Yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa, tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto.",
+          "english": "Like fine dust thrown against the wind, evil falls back upon that fool who offends an inoffensive, pure, and guiltless man."
+        },
+        {
+          "number": 126,
+          "pali": "Gabbham eke uppajjanti nirayaṃ pāpakammino, saggaṃ sugatino yanti parinibbanti anāsavā.",
+          "english": "Some are born in the womb; the wicked are born in hell; the righteous go to heaven; the stainless pass into Nibbāna."
+        },
+        {
+          "number": 127,
+          "pali": "Na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa, na vijjatī so jagatippadeso yattha ṭhito mucceyya pāpakammā.",
+          "english": "Neither in the sky nor in mid-ocean, nor by entering into mountain clefts, nowhere in the world is there a place where one may escape from the results of evil deeds."
+        },
+        {
+          "number": 128,
+          "pali": "Na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa, na vijjatī so jagatippadeso yattha ṭhitaṃ nappasaheyya maccu.",
+          "english": "Neither in the sky nor in mid-ocean, nor by entering into mountain clefts, nowhere in the world is there a place where one may escape from death."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Daṇḍavagga",
+      "title_english": "Violence",
+      "verse_range": [129, 145],
+      "verses": [
+        {
+          "number": 129,
+          "pali": "Sabbe tasanti daṇḍassa sabbe bhāyanti maccuno, attānaṃ upanamaṃ katvā na haneyya na ghātaye.",
+          "english": "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill."
+        },
+        {
+          "number": 130,
+          "pali": "Sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ, attānaṃ upanamaṃ katvā na haneyya na ghātaye.",
+          "english": "All tremble at violence; life is dear to all. Putting oneself in the place of another, one should not kill nor cause another to kill."
+        },
+        {
+          "number": 131,
+          "pali": "Sukhakāmāni bhūtāni yo daṇḍena vihiṃsati, attano sukhamesāno pecca so na labhate sukhaṃ.",
+          "english": "One who, while himself seeking happiness, oppresses with violence other beings who also desire happiness, will not attain happiness hereafter."
+        },
+        {
+          "number": 132,
+          "pali": "Sukhakāmāni bhūtāni yo daṇḍena na hiṃsati, attano sukhamesāno pecca so labhate sukhaṃ.",
+          "english": "One who, while himself seeking happiness, does not oppress with violence other beings who also desire happiness, will find happiness hereafter."
+        },
+        {
+          "number": 133,
+          "pali": "Māvoca pharusaṃ kañci vuttā paṭivadeyyu taṃ, dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ.",
+          "english": "Speak not harshly to anyone, for those spoken to might retort. Indeed, angry speech hurts, and retaliation may overtake you."
+        },
+        {
+          "number": 134,
+          "pali": "Sace neresi attānaṃ kaṃso upahato yathā, esa pattosi nibbānaṃ sārambho te na vijjati.",
+          "english": "If you make yourself as still as a broken gong does not vibrate, then you have attained Nibbāna; anger is not found in you."
+        },
+        {
+          "number": 135,
+          "pali": "Yathā daṇḍena gopālo gāvo pāceti gocaraṃ, evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ.",
+          "english": "Just as a cowherd with his staff drives cows to the pasture, so do old age and death drive the life force of beings (from existence to existence)."
+        },
+        {
+          "number": 136,
+          "pali": "Atha pāpāni kammāni karaṃ bālo na bujjhati, sehi kammehi dummedho aggidaḍḍho va tappati.",
+          "english": "When the fool commits evil deeds, he does not realize (their evil nature). The witless man is tormented by his own deeds, like one burnt by fire."
+        },
+        {
+          "number": 137,
+          "pali": "Yo daṇḍena adaṇḍesu appaduṭṭhesu dussati, dasannamaññataraṃ ṭhānaṃ khippameva nigacchati.",
+          "english": "He who inflicts violence on those who are unarmed, and offends those who are inoffensive, will soon come upon one of these ten states:"
+        },
+        {
+          "number": 138,
+          "pali": "Vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ, garukaṃ vāpi ābādhaṃ cittakkhepañ ca pāpuṇe.",
+          "english": "Sharp pain, or disaster, bodily injury, serious illness, or derangement of mind,"
+        },
+        {
+          "number": 139,
+          "pali": "Rājato vā upassaggaṃ abbhakkhānaṃ va dāruṇaṃ, parikkhayaṃ vā ñātīnaṃ bhogānaṃ vā pabhaṅguraṃ.",
+          "english": "trouble from the government, or grave charges, loss of relatives, or loss of wealth,"
+        },
+        {
+          "number": 140,
+          "pali": "Atha vāssa agārāni aggi ḍahati pāvako, kāyassa bhedā duppañño nirayaṃ sopapajjati.",
+          "english": "or else his houses are destroyed by ravaging fire; upon dissolution of the body that ignorant man is born in hell."
+        },
+        {
+          "number": 141,
+          "pali": "Na naggacariyā na jaṭā na paṅkā nānāsakā thaṇḍilasāyikā vā, rajojallaṃ ukkuṭikappadhānaṃ sodhenti maccaṃ avitiṇṇakaṅkhaṃ.",
+          "english": "Neither going about naked, nor matted locks, nor filth, nor fasting, nor lying on the ground, nor smearing oneself with ashes and dust, nor sitting on the heels (in penance) can purify a mortal who has not overcome doubt."
+        },
+        {
+          "number": 142,
+          "pali": "Alaṅkato cepi samaṃ careyya santo danto niyato brahmacārī, sabbesu bhūtesu nidhāya daṇḍaṃ so brāhmaṇo so samaṇo sa bhikkhu.",
+          "english": "Even though he be well-attired, yet if he is posed, calm, controlled and established in the holy life, having set aside violence towards all beings—he, truly, is a holy man, a renunciate, a monk."
+        },
+        {
+          "number": 143,
+          "pali": "Hirīnisedho puriso koci lokasmiṃ vijjati, yo niddaṃ apabodheti asso bhadro kasāmiva.",
+          "english": "Is there in this world any man restrained by modesty, who avoids reproach, as a thoroughbred horse avoids the whip?"
+        },
+        {
+          "number": 144,
+          "pali": "Asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha, saddhāya sīlena ca vīriyena ca samādhinā dhammavinicchayena ca, sampannavijjācaraṇā patissatā jahissatha dukkhamidaṃ anappakaṃ.",
+          "english": "Like a thoroughbred horse touched by the whip, be strenuous, be filled with spiritual urgency. By faith and moral purity, by effort and meditation, by investigation of the truth, by being rich in knowledge and virtue, and by being mindful, destroy this unlimited suffering."
+        },
+        {
+          "number": 145,
+          "pali": "Udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ, dāruṃ namayanti tacchakā attānaṃ damayanti subbatā.",
+          "english": "Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the virtuous master themselves."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Jarāvagga",
+      "title_english": "Old Age",
+      "verse_range": [146, 156],
+      "verses": [
+        {
+          "number": 146,
+          "pali": "Ko nu hāso kim ānando niccaṃ pajjalite sati, andhakārena onaddhā padīpaṃ na gavessatha.",
+          "english": "Why is there laughter, why merriment, when this world is always burning? When you are shrouded in darkness, will you not seek a lamp?"
+        },
+        {
+          "number": 147,
+          "pali": "Passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ, āturaṃ bahusaṅkappaṃ yassa natthi dhuvaṃ ṭhiti.",
+          "english": "Look upon this beautiful body, a mass of sores, joined together, diseased, and full of many thoughts, in which nothing lasts or is stable!"
+        },
+        {
+          "number": 148,
+          "pali": "Parijiṇṇam idaṃ rūpaṃ roganīḷaṃ pabhaṅguraṃ, bhijjati pūtisandeho maraṇantañ hi jīvitaṃ.",
+          "english": "Thoroughly worn out is this body, a nest of disease, and fragile. This foul mass breaks up, for death is the end of life."
+        },
+        {
+          "number": 149,
+          "pali": "Yānimāni palāpāni disisvāna saradāni ca, kāpotakāni aṭṭhīni tāni disvāna kā rati.",
+          "english": "These dove-colored bones are like gourds that lie scattered about in autumn. Having seen them, how can one seek delight?"
+        },
+        {
+          "number": 150,
+          "pali": "Aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepaṃ, yattha jarā ca maccu ca māno makkho ca ohito.",
+          "english": "This city (body) is built of bones, plastered with flesh and blood; within are decay and death, pride and jealousy."
+        },
+        {
+          "number": 151,
+          "pali": "Jīranti ve rājarathā sucittā, atho sarīram pi jaraṃ upeti, satañ ca dhammo na jaraṃ upeti, santo have sabbhi pavedayanti.",
+          "english": "Even gorgeous royal chariots wear out, and indeed this body too wears out. But the Dhamma of the good does not age; thus the good make it known to the good."
+        },
+        {
+          "number": 152,
+          "pali": "Appassutāyaṃ puriso balivaddo va jīrati, maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati.",
+          "english": "The man of little learning grows old like a bull. His muscles develop but his wisdom does not grow."
+        },
+        {
+          "number": 153,
+          "pali": "Anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ, gahakārakaṃ gavesanto dukkhā jāti punappunaṃ.",
+          "english": "Through many a birth in saṃsāra have I wandered in vain, seeking the builder of this house (of life). Repeated birth is indeed suffering!"
+        },
+        {
+          "number": 154,
+          "pali": "Gahakāraka diṭṭho'si puna gehaṃ na kāhasi, sabbā te phāsukā bhaggā gahakūṭaṃ visaṅkhataṃ, visaṅkhāragataṃ cittaṃ taṇhānaṃ khayam ajjhagā.",
+          "english": "O house-builder, you are seen! You will not build this house again. For your rafters are broken and your ridgepole shattered. My mind has reached the Unconditioned; I have attained the destruction of craving."
+        },
+        {
+          "number": 155,
+          "pali": "Acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ, jiṇṇakoñcā va jhāyanti khīṇamaccheva pallale.",
+          "english": "Those who in youth have not led the holy life, or have failed to acquire wealth, languish like old cranes in the pond that is without fish."
+        },
+        {
+          "number": 156,
+          "pali": "Acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ, senti cāpātikhīṇā va purāṇāni anutthunaṃ.",
+          "english": "Those who in youth have not led the holy life, or have failed to acquire wealth, lie sighing over the past, like worn out arrows shot from a bow."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Attavagga",
+      "title_english": "The Self",
+      "verse_range": [157, 166],
+      "verses": [
+        {
+          "number": 157,
+          "pali": "Attānañ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ, tiṇṇam aññataraṃ yāmaṃ paṭijaggeyya paṇḍito.",
+          "english": "If one holds oneself dear, one should diligently watch oneself. Let the wise man keep vigil during any one of the three watches of the night."
+        },
+        {
+          "number": 158,
+          "pali": "Attānam eva paṭhamaṃ patirūpe nivesaye, ath'aññam anusāseyya na kilisseyya paṇḍito.",
+          "english": "One should first establish oneself in what is proper; then only should one instruct another. Thus the wise man will not be reproached."
+        },
+        {
+          "number": 159,
+          "pali": "Attānaṃ ce tathā kayirā yathāññam anusāsati, sudanto vata dametha attā hi kira duddamo.",
+          "english": "If one would so conduct oneself as one instructs others, then, being fully controlled, one might indeed control others. One's own self is indeed difficult to control."
+        },
+        {
+          "number": 160,
+          "pali": "Attā hi attano nātho ko hi nātho paro siyā, attanā va sudantena nāthaṃ labhati dullabhaṃ.",
+          "english": "One truly is the protector of oneself; who else could the protector be? With oneself fully controlled, one gains a mastery that is hard to gain."
+        },
+        {
+          "number": 161,
+          "pali": "Attanā va kataṃ pāpaṃ attanā saṃkilissati, attanā akataṃ pāpaṃ attanāva visujjhati, suddhī asuddhi paccattaṃ nāñño aññaṃ visodhaye.",
+          "english": "By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure. Purity and impurity depended on oneself; no one can purify another."
+        },
+        {
+          "number": 162,
+          "pali": "Attadatthaṃ paratthena na hāpaye mahagghena, attadattham abhiññāya sadatthapasuto siyā.",
+          "english": "Let one not neglect one's own welfare for the sake of another, however great. Clearly understanding one's own welfare, let one be intent upon the good."
+        },
+        {
+          "number": 163,
+          "pali": "Na hi verena verāni sammantīdha kudācanaṃ, averena ca sammanti esa dhammo sanantano.",
+          "english": "Do not speak harshly to anyone; those who are spoken to will answer thee in the same way. Angry speech is painful, blows for blows will touch thee."
+        },
+        {
+          "number": 164,
+          "pali": "Sace neresi attānaṃ kaṃso upahato yathā, esa pattosi nibbānaṃ sārambho te na vijjati.",
+          "english": "If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nibbāna; conflict is not found in thee."
+        },
+        {
+          "number": 165,
+          "pali": "Yathā daṇḍena gopālo gāvo pāceti gocaraṃ, evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ.",
+          "english": "As a cowherd with his staff drives his cows into the stable, so do Age and Death drive the life of men."
+        },
+        {
+          "number": 166,
+          "pali": "Atha pāpāni kammāni karaṃ bālo na bujjhati, sehi kammehi dummedho aggidaḍḍho va tappati.",
+          "english": "A fool does not know when he commits his evil deeds: but the wicked man burns by his own deeds, as if burnt by fire."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Lokavagga",
+      "title_english": "The World",
+      "verse_range": [167, 178],
+      "verses": [
+        {
+          "number": 167,
+          "pali": "Hīnaṃ dhammaṃ na seveyya pamādena na saṃvase, micchādiṭṭhiṃ na seveyya na siyā lokavaḍḍhano.",
+          "english": "Do not follow evil law. Do not live in thoughtlessness. Do not follow false ideas. Be not a friend of the world."
+        },
+        {
+          "number": 168,
+          "pali": "Uttiṭṭhe nappamajjeyya dhammaṃ sucaritaṃ care, dhammacārī sukhaṃ seti asmiṃ loke paramhi ca.",
+          "english": "Arise! Do not be thoughtless! Follow the law of virtue! The righteous rests in bliss in this world and in the next."
+        },
+        {
+          "number": 169,
+          "pali": "Dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care, dhammacārī sukhaṃ seti asmiṃ loke paramhi ca.",
+          "english": "Follow the law of virtue; do not follow that of sin. The righteous rests in bliss in this world and in the next."
+        },
+        {
+          "number": 170,
+          "pali": "Yathā bubbulakaṃ passe yathā passe marīcikaṃ, evaṃ lokaṃ avekkhantaṃ maccurājā na passati.",
+          "english": "Look upon the world as a bubble, look upon it as a mirage. One who looks upon the world in this way, the king of death does not see."
+        },
+        {
+          "number": 171,
+          "pali": "Etha passathimaṃ lokaṃ cittaṃ rājarathūpamaṃ, yattha bālā visīdanti natthi saṅgo vijānataṃ.",
+          "english": "Come, look at this world, glittering like a royal chariot; the foolish are immersed in it, but the wise do not touch it."
+        },
+        {
+          "number": 172,
+          "pali": "Yo ca pubbe pamajjitvā pacchā so nappamajjati, so imaṃ lokaṃ pabhāseti abbhā muttova candimā.",
+          "english": "He who formerly was reckless and afterwards became sober brightens up this world like the moon when freed from clouds."
+        },
+        {
+          "number": 173,
+          "pali": "Yassa pāpaṃ kataṃ kammaṃ kusalena pidhīyati, so imaṃ lokaṃ pabhāseti abbhā muttova candimā.",
+          "english": "He whose evil deeds are covered by good deeds brightens up this world like the moon when freed from clouds."
+        },
+        {
+          "number": 174,
+          "pali": "Andhabhūto ayaṃ loko tanukettha vipassati, sakuṇo jālamuttova appo saggāya gacchati.",
+          "english": "This world is dark, few only can see here; a few only go to heaven, like birds escaped from the net."
+        },
+        {
+          "number": 175,
+          "pali": "Haṃsādiccapathe yanti ākāse yanti iddhiyā, nīyanti dhīrā lokamhā jetvā Māraṃ savāhiniṃ.",
+          "english": "The swans go on the path of the sun; they go through the ether by means of their miraculous power; the wise are led out of this world when they have conquered Māra and his train."
+        },
+        {
+          "number": 176,
+          "pali": "Ekaṃ dhammaṃ atītassa musāvādissa jantuno, vitiṇṇaparalokassa natthi pāpaṃ akāriyaṃ.",
+          "english": "If a man has transgressed one law, and speaks lies, and scoffs at another world, there is no evil he will not do."
+        },
+        {
+          "number": 177,
+          "pali": "Na ve kadariyā devalokaṃ vajanti bālā have nappasaṃsanti dānaṃ, dhīro ca dānaṃ anumodamāno teneva so hoti sukhī parattha.",
+          "english": "The uncharitable do not go to the world of the gods; fools only do not praise liberality; a wise man rejoices in liberality, and through it becomes blessed in the other world."
+        },
+        {
+          "number": 178,
+          "pali": "Paṭhavyā ekarajjena saggassa gamanena vā, sabbalokādhipaccena sotāpattiphalaṃ varaṃ.",
+          "english": "Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds is the reward of the first step in holiness."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Buddhavagga",
+      "title_english": "The Buddha",
+      "verse_range": [179, 196],
+      "verses": [
+        {
+          "number": 179,
+          "pali": "Yassa jitaṃ nāvajīyati jitaṃ yassa no yāti koci loke, taṃ buddham anantagocaraṃ apadaṃ kena padena nessatha.",
+          "english": "He whose conquest is not conquered again, into whose conquest no one in this world enters, by what track can you lead him, the Awakened, the Omniscient, the trackless?"
+        },
+        {
+          "number": 180,
+          "pali": "Yassa jālinī visattikā taṇhā natthi kuhiñci netave, taṃ buddham anantagocaraṃ apadaṃ kena padena nessatha.",
+          "english": "He whom no craving with its snares and poisons can lead astray, by what track can you lead him, the Awakened, the Omniscient, the trackless?"
+        },
+        {
+          "number": 181,
+          "pali": "Ye jhānāpasutā dhīrā nekkhammūpasame ratā, devāpi tesaṃ pihayanti sambuddhānaṃ satīmataṃ.",
+          "english": "Even the gods hold dear the wise ones who are devoted to meditation, who delight in the repose of retirement (from the world), and who are mindful and perfectly enlightened."
+        },
+        {
+          "number": 182,
+          "pali": "Kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ, kicchaṃ saddhammasavanaṃ kiccho buddhānam uppādo.",
+          "english": "Difficult is it to be born a man; difficult is the life of mortals. Difficult is it to gain access to the true law; difficult is the appearance of the Buddhas."
+        },
+        {
+          "number": 183,
+          "pali": "Sabbapāpassa akaraṇaṃ kusalassa upasampadā, sacittapariyodapanaṃ etaṃ buddhāna sāsanaṃ.",
+          "english": "To avoid all evil, to cultivate good, and to cleanse one's mind—this is the teaching of the Buddhas."
+        },
+        {
+          "number": 184,
+          "pali": "Khantī paramaṃ tapo titikkhā nibbānaṃ paramaṃ vadanti buddhā, na hi pabbajito parūpaghātī na samaṇo hoti paraṃ viheṭhayanto.",
+          "english": "The Buddhas say patience is the supreme penance, long-suffering the supreme Nibbāna; for he is not an anchorite (pabbajita) who strikes others, he is not an ascetic (samaṇa) who insults others."
+        },
+        {
+          "number": 185,
+          "pali": "Anūpavādo anūpaghāto pātimokkhe ca saṃvaro, mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ, adhicitte ca āyogo etaṃ buddhāna sāsanaṃ.",
+          "english": "Not to blame, not to strike, to live restrained under the law, to be moderate in eating, to sleep and sit alone, and to dwell on the highest thoughts—this is the teaching of the Buddhas."
+        },
+        {
+          "number": 186,
+          "pali": "Na kahāpaṇavassena titti kāmesu vijjati, appassādā dukhā kāmā iti viññāya paṇḍito.",
+          "english": "There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain. Having understood this, the wise man"
+        },
+        {
+          "number": 187,
+          "pali": "Api dibbesu kāmesu ratiṃ so nādhigacchati, taṇhakkhayarato hoti sammāsambuddhasāvako.",
+          "english": "finds no delight even in heavenly pleasures. The disciple who is fully awakened delights only in the destruction of all desires."
+        },
+        {
+          "number": 188,
+          "pali": "Bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca, ārāmarukkhacetyāni manussā bhayatajjitā.",
+          "english": "Men, driven by fear, go to many a refuge, to mountains and forests, to groves and sacred trees."
+        },
+        {
+          "number": 189,
+          "pali": "Netaṃ kho saraṇaṃ khemaṃ netaṃ saraṇamuttamaṃ, netaṃ saraṇam āgamma sabbadukkhā pamuccati.",
+          "english": "But that is not a safe refuge, that is not the best refuge; a man is not delivered from all pains after having gone to that refuge."
+        },
+        {
+          "number": 190,
+          "pali": "Yo ca buddhañ ca dhammañ ca saṅghañ ca saraṇaṃ gato, cattāri ariyasaccāni sammappaññāya passati.",
+          "english": "He who takes refuge with Buddha, the Law, and the Church; he who, with clear understanding, sees the four holy truths:"
+        },
+        {
+          "number": 191,
+          "pali": "Dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ, ariyaṃ caṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ.",
+          "english": "viz. pain, the origin of pain, the destruction of pain, and the eightfold holy way that leads to the quieting of pain;"
+        },
+        {
+          "number": 192,
+          "pali": "Etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇamuttamaṃ, etaṃ saraṇam āgamma sabbadukkhā pamuccati.",
+          "english": "that is the safe refuge, that is the best refuge; having gone to that refuge, a man is delivered from all pain."
+        },
+        {
+          "number": 193,
+          "pali": "Dullabho purisājañño na so sabbattha jāyati, yattha so jāyati dhīro taṃ kulaṃ sukhitaṃ hoti.",
+          "english": "A supernatural person (a Buddha) is not easily found, he is not born everywhere. Wherever such a sage is born, that race prospers."
+        },
+        {
+          "number": 194,
+          "pali": "Sukho buddhānam uppādo sukhā saddhammadesanā, sukhā saṅghassa sāmaggi samaggānaṃ tapo sukho.",
+          "english": "Happy is the arising of the awakened, happy is the teaching of the true law, happy is peace in the church, happy is the devotion of those who are at peace."
+        },
+        {
+          "number": 195,
+          "pali": "Pūjārahe pūjayato buddhe yadi va sāvake, papañcasamatikkante te munayo anāsave.",
+          "english": "He who pays homage to those who deserve homage, whether the awakened (Buddha) or their disciples, those who have overcome the host (of evils), and crossed the flood of sorrow,"
+        },
+        {
+          "number": 196,
+          "pali": "Te tādise pūjayato nibbute akutobhaye, na sakkā puññaṃ saṅkhātuṃ imettam api kenaci.",
+          "english": "he who pays homage to such as have found deliverance and know no fear, his merit can never be measured by anybody."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Sukhavagga",
+      "title_english": "Happiness",
+      "verse_range": [197, 208],
+      "verses": [
+        {
+          "number": 197,
+          "pali": "Susukhaṃ vata jīvāma verinesu averino, verinesu manussesu viharāma averino.",
+          "english": "Very happily we live, friendly amidst the hostile. Amidst hostile men we dwell free from hatred."
+        },
+        {
+          "number": 198,
+          "pali": "Susukhaṃ vata jīvāma āturesu anāturā, āturesu manussesu viharāma anāturā.",
+          "english": "Very happily we live, free from ailments amidst the ailing. Amidst ailing men we dwell free from ailments."
+        },
+        {
+          "number": 199,
+          "pali": "Susukhaṃ vata jīvāma ussūkesu anussukā, ussūkesu manussesu viharāma anussukā.",
+          "english": "Very happily we live, free from avarice amidst the avaricious. Amidst avaricious men we dwell free from avarice."
+        },
+        {
+          "number": 200,
+          "pali": "Susukhaṃ vata jīvāma yesaṃ no natthi kiñcanaṃ, pītibhakkhā bhavissāma devā ābhassarā yathā.",
+          "english": "Very happily we live, we who possess nothing. Feeders on joy we shall be, like the radiant gods."
+        },
+        {
+          "number": 201,
+          "pali": "Jayaṃ veraṃ pasavati dukkhaṃ seti parājito, upasanto sukhaṃ seti hitvā jayaparājayaṃ.",
+          "english": "Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy."
+        },
+        {
+          "number": 202,
+          "pali": "Natthi rāgasamo aggi natthi dosasamo kali, natthi khandhāsamā dukkhā natthi santiparaṃ sukhaṃ.",
+          "english": "There is no fire like passion, there is no shark like hatred, there is no snare like folly, there is no torrent like greed."
+        },
+        {
+          "number": 203,
+          "pali": "Sudassaṃ vajjam aññesaṃ attano pana duddasaṃ, paresaṃ hi so vajjāni opunāti yathā bhusaṃ, attano pana chādeti kaliṃ va kitavā saṭho.",
+          "english": "The fault of others is easily perceived, but that of oneself is difficult to perceive; a man winnows his neighbor's faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler."
+        },
+        {
+          "number": 204,
+          "pali": "Paravajjānupassissa niccaṃ ujjhānasaññino, āsavā tassa vaḍḍhanti ārā so āsavakkhayā.",
+          "english": "If a man looks after the faults of others, and is always inclined to be offended, his own passions will grow, and he is far from the destruction of passions."
+        },
+        {
+          "number": 205,
+          "pali": "Ākāse padaṃ natthi samaṇo natthi bāhire, papañcābhiratā pajā nippapañcā tathāgatā.",
+          "english": "There is no path through the air, a man is not a monk by outward observances. The world delights in vanity, the Tathāgatas (the Buddhas) are free from vanity."
+        },
+        {
+          "number": 206,
+          "pali": "Ākāse padaṃ natthi samaṇo natthi bāhire, saṅkhārā sassatā natthi natthi buddhānaṃ iñjitaṃ.",
+          "english": "There is no path through the air, a man is not a monk by outward observances. No creatures are eternal; but the awakened (Buddha) are never shaken."
+        },
+        {
+          "number": 207,
+          "pali": "Na tena thero so hoti yenassa palitaṃ siro, paripakko vayo tassa moghajiṇṇo ti vuccati.",
+          "english": "A man is not an elder because his head is grey; his age may be ripe, but he is called 'Old-in-vain.'"
+        },
+        {
+          "number": 208,
+          "pali": "Yamhi saccañ ca dhammo ca ahiṃsā saṃyamo damo, sa ve vantamalo dhīro thero iti vuccati.",
+          "english": "He in whom there is truth, virtue, love, restraint, moderation, he who is free from impurity and is wise, he is called an elder."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Piyavagga",
+      "title_english": "Affection",
+      "verse_range": [209, 220],
+      "verses": [
+        {
+          "number": 209,
+          "pali": "Ayoge yuñjamattānaṃ yogasmiñ ca ayojayaṃ, atthaṃ hitvā piyaggāhī pihetattānuyoginaṃ.",
+          "english": "Apply yourself to what should not be done; do not apply yourself to what should be done. The slothful who cling to the pleasant miss the goal, while others reach it."
+        },
+        {
+          "number": 210,
+          "pali": "Piyato jāyatī soko piyato jāyatī bhayaṃ, piyato vippamuttassa natthi soko kuto bhayaṃ.",
+          "english": "From attachment springs grief, from attachment springs fear. For one who is wholly free from attachment there is no grief, and whence can fear come?"
+        },
+        {
+          "number": 211,
+          "pali": "Pemato jāyatī soko pemato jāyatī bhayaṃ, pemato vippamuttassa natthi soko kuto bhayaṃ.",
+          "english": "From affection springs grief, from affection springs fear. For one who is wholly free from affection there is no grief, and whence can fear come?"
+        },
+        {
+          "number": 212,
+          "pali": "Ratiyā jāyatī soko ratiyā jāyatī bhayaṃ, ratiyā vippamuttassa natthi soko kuto bhayaṃ.",
+          "english": "From pleasure springs grief, from pleasure springs fear. For one who is wholly free from pleasure there is no grief, and whence can fear come?"
+        },
+        {
+          "number": 213,
+          "pali": "Kāmato jāyatī soko kāmato jāyatī bhayaṃ, kāmato vippamuttassa natthi soko kuto bhayaṃ.",
+          "english": "From lust springs grief, from lust springs fear. For one who is wholly free from lust there is no grief, and whence can fear come?"
+        },
+        {
+          "number": 214,
+          "pali": "Taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ, taṇhāya vippamuttassa natthi soko kuto bhayaṃ.",
+          "english": "From craving springs grief, from craving springs fear. For one who is wholly free from craving there is no grief, and whence can fear come?"
+        },
+        {
+          "number": 215,
+          "pali": "Sīladassanasampannaṃ dhammaṭṭhaṃ saccavedinaṃ, attano kamma kubbānaṃ taṃ jano kurute piyaṃ.",
+          "english": "People hold dear one who is endowed with virtue and insight, who is principled, has realized the truth, and who himself does what he ought to be doing."
+        },
+        {
+          "number": 216,
+          "pali": "Chandajāto anakkhāte manasā ca phuṭo siyā, kāmesu ca appaṭibaddhacitto uddhaṃsoto ti vuccati.",
+          "english": "One who has developed a wish for the Undeclared (Nibbāna), who is filled with longing, and whose mind is not bound by material pleasures, is called 'bound upstream.'"
+        },
+        {
+          "number": 217,
+          "pali": "Cirappavāsiṃ purisaṃ dūrato sotthim āgataṃ, ñātimittā suhajjā ca abhinandanti āgataṃ.",
+          "english": "When, after a long absence, a man returns safely from afar, his kinsmen, friends, and well-wishers welcome him back."
+        },
+        {
+          "number": 218,
+          "pali": "Tatheva katapuññam pi asmā lokā paraṃ gataṃ, puññāni paṭigaṇhanti piyaṃ ñātim iv āgataṃ.",
+          "english": "In the same way, when a man who has done good deeds goes from this world to the next, his good deeds receive him there, as kinsmen welcome a dear one on his return."
+        },
+        {
+          "number": 219,
+          "pali": "Mātaraṃ pitaraṃ hantvā rājāno dve ca khattiyo, raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo.",
+          "english": "Having slain mother (craving), father (conceit), two warrior-kings (eternalism and nihilism), and destroyed a country (sense-objects) together with its treasurer (attachment), ungrieving goes the holy man."
+        },
+        {
+          "number": 220,
+          "pali": "Mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiyo, veyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo.",
+          "english": "Having slain mother, father, two learned kings, and a tiger as the fifth (the five hindrances), ungrieving goes the holy man."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Kodhavagga",
+      "title_english": "Anger",
+      "verse_range": [221, 234],
+      "verses": [
+        {
+          "number": 221,
+          "pali": "Kodhaṃ jahe vippajaheyya mānaṃ, sabbaṃ saṃyojanaṃ samatikkameyya; taṃ nāmarūpasmiṃ asajjamānaṃ akiñcanaṃ nānupatanti dukkhā.",
+          "english": "Give up anger, renounce pride, overcome all fetters. When one is not attached to name and form and owns nothing, no sufferings befall him."
+        },
+        {
+          "number": 222,
+          "pali": "Yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va vāraye, taṃ ahaṃ sārathiṃ brūmi rasmiggāho itaro jano.",
+          "english": "He who holds back arisen anger like a rolling chariot, him I call a real driver; other people are but holding the reins."
+        },
+        {
+          "number": 223,
+          "pali": "Akkodhena jine kodhaṃ asādhuṃ sādhunā jine, jine kadariyaṃ dānena saccenālikavādinaṃ.",
+          "english": "Overcome anger with non-anger; overcome evil with good; overcome the miser with generosity; overcome the liar with truth."
+        },
+        {
+          "number": 224,
+          "pali": "Saccaṃ bhaṇe na kujjheyya dajjā appam pi yācito, etehi tīhi ṭhānehi gacche devāna santike.",
+          "english": "Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods."
+        },
+        {
+          "number": 225,
+          "pali": "Ahiṃsakā ye munayo niccaṃ kāyena saṃvutā, te yanti accutaṃ ṭhānaṃ yattha gantvā na socare.",
+          "english": "The sages who injure none, who always control their body, they go to the unchangeable place (Nibbāna), where, if they have gone, they grieve no more."
+        },
+        {
+          "number": 226,
+          "pali": "Sadā jāgaramānānaṃ ahorattānusikkhinaṃ, nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā.",
+          "english": "Those who are ever watchful, who study day and night, and who strive after Nibbāna, their passions will come to an end."
+        },
+        {
+          "number": 227,
+          "pali": "Purāṇam etaṃ Atula na etaṃ ajjatanāmiva, nindanti tuṇhim āsīnaṃ nindanti bahubhāṇinaṃ, mitabhāṇim pi nindanti natthi loke anindito.",
+          "english": "This is an old saying, O Atula, this is not only of today: 'They blame him who sits silent, they blame him who speaks much, they also blame him who says little; there is no one on earth who is not blamed.'"
+        },
+        {
+          "number": 228,
+          "pali": "Na cāhu na ca bhavissati na cetarahi vijjati, ekantaṃ nindito poso ekantaṃ vā pasaṃsito.",
+          "english": "There never was, there never will be, nor is there now, a person who is always blamed, or a person who is always praised."
+        },
+        {
+          "number": 229,
+          "pali": "Yaṃ ce viññū pasaṃsanti anuvicca suve suve, acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ.",
+          "english": "But he whom the wise praise, after observing him day after day, is one whose conduct is blameless, who is intelligent, and who is endowed with knowledge and virtue."
+        },
+        {
+          "number": 230,
+          "pali": "Nikkhaṃ jambonadasseva ko taṃ ninditumarahati, devāpi naṃ pasaṃsanti brahmunāpi pasaṃsito.",
+          "english": "Who dares to blame him who is like a coin made of gold from the Jambū river? Even the gods praise him, and by Brahmā too he is praised."
+        },
+        {
+          "number": 231,
+          "pali": "Kāyappakopam rakkheyya kāyena saṃvuto siyā, kāyaduccaritaṃ hitvā kāyena sucaritaṃ care.",
+          "english": "Beware of bodily anger, and control thy body! Leave the sins of the body, and with thy body practise virtue!"
+        },
+        {
+          "number": 232,
+          "pali": "Vacīpakopam rakkheyya vācāya saṃvuto siyā, vacīduccaritaṃ hitvā vācāya sucaritaṃ care.",
+          "english": "Beware of the anger of the tongue, and control thy tongue! Leave the sins of the tongue, and practise virtue with thy tongue!"
+        },
+        {
+          "number": 233,
+          "pali": "Manopakopam rakkheyya manasā saṃvuto siyā, manoduccaritaṃ hitvā manasā sucaritaṃ care.",
+          "english": "Beware of the anger of the mind, and control thy mind! Leave the sins of the mind, and practise virtue with thy mind!"
+        },
+        {
+          "number": 234,
+          "pali": "Kāyena saṃvutā dhīrā atho vācāya saṃvutā, manasā saṃvutā dhīrā te ve suparisaṃvutā.",
+          "english": "The wise who control their body, who control their tongue, the wise who control their mind, are indeed well controlled."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Malavagga",
+      "title_english": "Impurity",
+      "verse_range": [235, 255],
+      "verses": [
+        {
+          "number": 235,
+          "pali": "Paṇḍupalāso va dāni'si yamapurisāpi ca taṃ upaṭṭhitā, uyyogamukhe ca tiṭṭhasi na ca gantubhayaṃ tava atthi.",
+          "english": "You are now like a withered leaf, and even death's messengers await you. You stand at departure's threshold, but you have no provisions for the journey."
+        },
+        {
+          "number": 236,
+          "pali": "So karohi dīpam attano khippaṃ vāyama paṇḍito, niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmiṃ ehisi.",
+          "english": "Make an island for yourself! Strive quickly; be wise! Purged of stain and flawless, you will reach the noble land of the gods."
+        },
+        {
+          "number": 237,
+          "pali": "Upanītavayo ca dāni'si sampayāto'si yamassa santike, vāso'pi ca te natthi antarā ca te natthi gantubhayaṃ.",
+          "english": "Your life has come to an end now; you are setting forth into the presence of Yama, the king of death, and there is no resting place for you on the way, nor have you any provisions for the journey."
+        },
+        {
+          "number": 238,
+          "pali": "So karohi dīpam attano khippaṃ vāyama paṇḍito, niddhantamalo anaṅgaṇo na punaṃ jātijaraṃ upehisi.",
+          "english": "Make an island for yourself! Strive quickly; be wise! Purged of stain and flawless, you will not come again to birth and decay."
+        },
+        {
+          "number": 239,
+          "pali": "Anupubbena medhāvī thokaṃ thokaṃ khaṇe khaṇe, kammāro rajatasseva niddhame malamattano.",
+          "english": "Little by little, bit by bit, moment by moment, a wise man should remove his own impurities, as a smith removes his dross from silver."
+        },
+        {
+          "number": 240,
+          "pali": "Ayasā va malaṃ samuṭṭhitaṃ tatuṭṭhāya tameva khādati, evaṃ atidhonacārinaṃ sāni kammāni nayanti duggatim.",
+          "english": "As rust arising from iron eats away the very iron from which it arose, even so do their own deeds lead transgressors to states of woe."
+        },
+        {
+          "number": 241,
+          "pali": "Asajjhāyamalā mantā anuṭṭhānamalā gharā, malaṃ vaṇṇassa kosajjaṃ pamādo rakkhato malaṃ.",
+          "english": "Non-recitation is the rust of mantras; non-exertion is the rust of homes; sloth is the rust of beauty; carelessness is the rust of a guard."
+        },
+        {
+          "number": 242,
+          "pali": "Malitthiyā duccaritaṃ maccheriyaṃ dadato malaṃ, malā ve pāpakā dhammā asmiṃ loke paramhi ca.",
+          "english": "Misconduct is the rust of a woman; stinginess is the rust of a giver; evil deeds are rust in this world and the next."
+        },
+        {
+          "number": 243,
+          "pali": "Tato malā malataraṃ avijjā paramaṃ malaṃ, etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo.",
+          "english": "But there is a rust worse than all these rusts—ignorance is the greatest rust. O monks! Cast away this rust and be free from stain!"
+        },
+        {
+          "number": 244,
+          "pali": "Sujīvaṃ ahirikena kākasūrena dhaṃsinā, pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ.",
+          "english": "Life is easy to live for a man who is without shame, a crow hero, a mischief-maker, an insulting, bold, and wretched fellow."
+        },
+        {
+          "number": 245,
+          "pali": "Hirīmatā ca dujjīvaṃ niccaṃ sucigavesinā, alīnenāppagabbhena suddhājīvena passatā.",
+          "english": "But life is hard to live for a modest man, who always seeks for what is pure, who is disinterested, quiet, spotless, and intelligent."
+        },
+        {
+          "number": 246,
+          "pali": "Yo pāṇam atipāteti musāvādañ ca bhāsati, loke adinnaṃ ādiyati paradāraṃ ca gacchati.",
+          "english": "He who destroys life, utters lies, takes what is not given to him, goes to another man's wife,"
+        },
+        {
+          "number": 247,
+          "pali": "Surāmerayapānañ ca yo naro anuyuñjati, idh'eva m'eso lokasmiṃ mūlaṃ khaṇati attano.",
+          "english": "and the man who gives himself to drinking intoxicating liquors, he, even in this world, digs up his own root."
+        },
+        {
+          "number": 248,
+          "pali": "Evaṃ bho purisa jānāhi pāpadhammā asaññatā, mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ.",
+          "english": "O man, know this, that the unrestrained are in a bad state; take care that greediness and vice do not bring thee to grief for a long time!"
+        },
+        {
+          "number": 249,
+          "pali": "Dadāti ve yathāsaddhaṃ yathāpasādanaṃ jano, tattha yo maṅku bhavati paresaṃ pānabhojane, na so divā vā rattiṃ vā samādhim adhigacchati.",
+          "english": "The world gives according to their faith or according to their pleasure: if a man frets about the food and the drink given to others, he will not attain concentration, either by day or by night."
+        },
+        {
+          "number": 250,
+          "pali": "Yassa c'etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ, sa ve divā vā rattiṃ vā samādhim adhigacchati.",
+          "english": "He in whom that feeling is destroyed, and taken out with the very root, finds rest by day or by night."
+        },
+        {
+          "number": 251,
+          "pali": "Natthi rāgasamo aggi natthi dosasamo gaho, natthi mohasamaṃ jālaṃ natthi taṇhāsamā nadī.",
+          "english": "There is no fire like passion, there is no losing throw like hatred, there is no pain like this body, there is no happiness higher than rest."
+        },
+        {
+          "number": 252,
+          "pali": "Jighacchāparamā rogā saṅkhāraparamā dukhā, etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ.",
+          "english": "Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nibbāna, the highest happiness."
+        },
+        {
+          "number": 253,
+          "pali": "Ārogyaparamā lābhā santuṭṭhiparamaṃ dhanaṃ, vissāsaparamā ñāti nibbānaṃ paramaṃ sukhaṃ.",
+          "english": "Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nibbāna the highest happiness."
+        },
+        {
+          "number": 254,
+          "pali": "Pavivekarasaṃ pitvā rasaṃ upasamassa ca, niddaro hoti nippāpo dhammapītirasaṃ pibaṃ.",
+          "english": "He who has tasted the sweetness of solitude and tranquillity, is free from fear and free from sin, while he tastes the sweetness of drinking in the law."
+        },
+        {
+          "number": 255,
+          "pali": "Sāhu dassanam ariyānaṃ sannivāso sadā sukho, adassanena bālānaṃ niccameva sukhī siyā.",
+          "english": "The sight of the noble is good, to live with them is always happiness; if a man does not see fools, he will be truly happy."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Dhammaṭṭhavagga",
+      "title_english": "The Just",
+      "verse_range": [256, 272],
+      "verses": [
+        {
+          "number": 256,
+          "pali": "Na tena hoti dhammaṭṭho yenatthaṃ sāhasā naye, yo ca atthaṃ anatthañ ca ubho niccheyya paṇḍito.",
+          "english": "A man is not just if he carries a matter by violence; no, he who distinguishes both right and wrong, who is learned and leads others, not by violence, but by law and equity, and who is guarded by the law and intelligent, he is called just."
+        },
+        {
+          "number": 257,
+          "pali": "Asāhasena dhammena samena nayatī pare, dhammassa gutto medhāvī dhammaṭṭho ti pavuccati.",
+          "english": "A man is not learned because he talks much; he who is patient, free from hatred and fear, he is called learned."
+        },
+        {
+          "number": 258,
+          "pali": "Na tāvatā thero hoti yāvatā jiṇṇasīso ca, paripakko vayo tassa moghajiṇṇo ti vuccati.",
+          "english": "A man is not an elder because his head is grey; his age may be ripe, but he is called 'Old-in-vain.'"
+        },
+        {
+          "number": 259,
+          "pali": "Yamhi saccañ ca dhammo ca ahiṃsā saṃyamo damo, sa ve vantamalo dhīro thero iti vuccati.",
+          "english": "He in whom there is truth, virtue, love, restraint, moderation, he who is free from impurity and is wise, he is called an elder."
+        },
+        {
+          "number": 260,
+          "pali": "Na vākkaraṇamattena vaṇṇapokkharatāya vā, sādhurūpo naro hoti issukī maccharī saho.",
+          "english": "An envious greedy, dishonest man does not become respectable by means of much talking only, or by the beauty of his complexion."
+        },
+        {
+          "number": 261,
+          "pali": "Yassa c'etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ, sa vantadoso medhāvī sādhurūpo ti vuccati.",
+          "english": "He in whom all this is destroyed, and taken out with the very root, he, when freed from hatred and wise, is called respectable."
+        },
+        {
+          "number": 262,
+          "pali": "Na muṇḍakena samaṇo abbato alikavatā, icchālobhasamāpanno samaṇo kiṃ bhavissati.",
+          "english": "Not by tonsure does an undisciplined man who speaks falsehood become a monk. Whoever is possessed by desire and greediness, how can he be a monk?"
+        },
+        {
+          "number": 263,
+          "pali": "Yo ca sameti pāpāni aṇuṃ thūlāni sabbaso, samitattā hi pāpānaṃ samaṇo ti pavuccati.",
+          "english": "He who always quiets the evil, whether small or large, because of a monk's quieting of the evil he is called a monk (samaṇa)."
+        },
+        {
+          "number": 264,
+          "pali": "Na tena bhikkhu so hoti yāvatā bhikkhate pare, vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā.",
+          "english": "A man is not a mendicant (bhikkhu) simply because he asks others for alms; he who adopts the whole law is a bhikkhu, not he who only begs."
+        },
+        {
+          "number": 265,
+          "pali": "Yodha puññañ ca pāpañ ca bāhetvā brahmacariyavā, saṅkhāya loke carati sa ve bhikkhūti vuccati.",
+          "english": "He who is above good and evil, who is chaste, who with knowledge passes through the world, he indeed is called a bhikkhu."
+        },
+        {
+          "number": 266,
+          "pali": "Na monena munī hoti mūḷharūpo aviddasu, yo ca tulaṃ va paggayha varamādāya paṇḍito.",
+          "english": "A man does not become a muni by observing silence (mona), if he be foolish and ignorant; but the wise man who, taking the balance, chooses the good and avoids evil, he is a muni, and is a muni thereby; he who in this world weighs both sides is called a muni."
+        },
+        {
+          "number": 267,
+          "pali": "Pāpāni parivajjeti sa munī teneva so munī, yo munāti ubho loke muni teneva pavuccati.",
+          "english": "A man is not a muni because he observes silence; he who is wise and good is a muni."
+        },
+        {
+          "number": 268,
+          "pali": "Na tena ariyo hoti yena pāṇāni hiṃsati, ahiṃsā sabbapāṇānaṃ ariyo ti pavuccati.",
+          "english": "A man is not an elect (ariya) because he injures living creatures; because he has pity on all living creatures, therefore is a man called ariya (elect)."
+        },
+        {
+          "number": 269,
+          "pali": "Na sīlabbatamattena bāhusaccena vā pana, atha vā samādhilābhena vivittasayanena vā.",
+          "english": "Not only by discipline and vows, not only by much learning, not by entering into a trance, not by sleeping alone, do I earn the happiness of release which no worldling can know. Bhikkhu, be not confident as long as thou hast not attained the extinction of desires."
+        },
+        {
+          "number": 270,
+          "pali": "Phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ, bhikkhu vissāsam āpādi appatto āsavakkhayaṃ.",
+          "english": "Not only by discipline and vows, not only by much learning, not by entering into a trance, not by sleeping alone, do I earn the happiness of release which no worldling can know. Bhikkhu, be not confident as long as thou hast not attained the extinction of desires."
+        },
+        {
+          "number": 271,
+          "pali": "Uddhaṃ tiriyaṃ apācīnaṃ yāni kānici dhammā, te sabbe anicca dukkha anattā ti ñatvā, na kiñci maññe ti na ca maññamāno, viharāmi suddho vimalo anāsavo.",
+          "english": "Whatever things exist above, below, around, and between, knowing them all to be impermanent, painful, and without a self, thinking 'I am nothing,' and not thinking so, I live pure, stainless, and without defilements."
+        },
+        {
+          "number": 272,
+          "pali": "Sīlabbatena suddhi vā ñāṇena vā tapena vā, samādhilābhena vā pana, vivittasayanena vā, phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ, bhikkhu vissāsam āpādi appatto āsavakkhayaṃ ti.",
+          "english": "Not by discipline and vows alone, nor by knowledge, nor by austerities, nor by meditation, nor by sleeping alone, do I experience the bliss of renunciation not enjoyed by ordinary people. O monk, do not be overconfident until you have reached the destruction of all defilements."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Maggavagga",
+      "title_english": "The Path",
+      "verse_range": [273, 289],
+      "verses": [
+        {
+          "number": 273,
+          "pali": "Maggānaṭṭhaṅgiko seṭṭho saccānaṃ caturo padā, virāgo seṭṭho dhammānaṃ dvipadānaṃ ca cakkhumā.",
+          "english": "The best of paths is the eightfold path; the best of truths are the four noble truths; the best of virtues is passionlessness; the best of men is the one who sees."
+        },
+        {
+          "number": 274,
+          "pali": "Eso va maggo natthañño dassanassa visuddhiyā, etaṃ hi tumhe paṭipajjatha mārassetaṃ pamohanaṃ.",
+          "english": "This is the path, there is no other that leads to the purifying of intelligence. Go on this path! Everything else is the deceit of Māra (the tempter)."
+        },
+        {
+          "number": 275,
+          "pali": "Etaṃ hi tumhe paṭipannā dukkhassantaṃ karissatha, akkhāto vo mayā maggo aññāya sallakantanaṃ.",
+          "english": "If you go on this path, you will make an end of pain! The path was preached by me, when I had understood the removal of the thorns (in the flesh)."
+        },
+        {
+          "number": 276,
+          "pali": "Tumhehi kiccam ātappaṃ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+          "english": "You yourself must make an effort. The Tathāgatas (Buddhas) are only preachers. The thoughtful who enter the way are freed from the bondage of Māra."
+        },
+        {
+          "number": 277,
+          "pali": "\"Sabbe saṅkhārā aniccā\" ti yadā paññāya passati, atha nibbindati dukkhe esa maggo visuddhiyā.",
+          "english": "\"All created things perish,\" he who knows and sees this becomes passive in pain; this is the way of purification."
+        },
+        {
+          "number": 278,
+          "pali": "\"Sabbe saṅkhārā dukkhā\" ti yadā paññāya passati, atha nibbindati dukkhe esa maggo visuddhiyā.",
+          "english": "\"All created things are grief and pain,\" he who knows and sees this becomes passive in pain; this is the way of purification."
+        },
+        {
+          "number": 279,
+          "pali": "\"Sabbe dhammā anattā\" ti yadā paññāya passati, atha nibbindati dukkhe esa maggo visuddhiyā.",
+          "english": "\"All forms of existence are unreal,\" he who knows and sees this becomes passive in pain; this is the way of purification."
+        },
+        {
+          "number": 280,
+          "pali": "Uṭṭhānakālamhi anuṭṭhahāno yuvā balī ālasiyaṃ upagato, saṃsannasaṅkappamano kusīto paññāya maggaṃ na vindati.",
+          "english": "He who does not rouse himself when it is time to rise, who, though young and strong, is full of sloth, whose will and thought are weak, that lazy and idle man will never find the way to knowledge."
+        },
+        {
+          "number": 281,
+          "pali": "Vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā, ete tayo kammapathe visodhaye ārādhaye maggam isippaveditaṃ.",
+          "english": "Watching his speech, well restrained in mind, let a man never commit any wrong with his body! Let a man but keep these three roads of action clear, and he will achieve the way which is taught by the wise."
+        },
+        {
+          "number": 282,
+          "pali": "Yogā ve jāyatī bhūri ayogā bhūrisaṅkhayo, etaṃ dvedhāpathaṃ ñatvā bhavāya vibhavāya ca, tathāttānaṃ niveseyya yathā bhūri pavaḍḍhati.",
+          "english": "Through zeal knowledge is gotten, through lack of zeal knowledge is lost; let a man who knows this double path of gain and loss thus place himself that knowledge may grow."
+        },
+        {
+          "number": 283,
+          "pali": "Vanaṃ chindatha mā rukkhaṃ vanato jāyate bhayaṃ, chetvā vanañ ca vanathañ ca nibbanā hotha bhikkhavo.",
+          "english": "Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust). When you have cut down both the forest (of lust) and its undergrowth, then, Bhikkhus, you will be rid of the forest and free!"
+        },
+        {
+          "number": 284,
+          "pali": "Yāva hi vanatho na chijjati aṇumatto'pi narassa nārisu, paṭibaddhamano va tāva so vaccho khīrapakova mātari.",
+          "english": "So long as the love of man towards women, even the smallest, is not destroyed, so long is his mind in bondage, as the calf that drinks milk is to its mother."
+        },
+        {
+          "number": 285,
+          "pali": "Ucchinda sineham attano kumudaṃ sāradikaṃ va pāṇinā, santimaggam eva brūhaya nibbānaṃ sugatena desitaṃ.",
+          "english": "Cut out the love of self, like an autumn lotus, with thy hand! Cherish the road of peace. Nibbāna has been shown by Sugata (Buddha)."
+        },
+        {
+          "number": 286,
+          "pali": "Idha vassaṃ vasissāmi idha hemantagimhisu, iti bālo vicinteti antarāyaṃ na bujjhati.",
+          "english": "\"Here I shall dwell in the rain, here in winter and summer,\" thus the fool meditates, and does not think of his death."
+        },
+        {
+          "number": 287,
+          "pali": "Taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ, suttaṃ gāmaṃ mahogho va maccu ādāya gacchati.",
+          "english": "Death comes and carries off that man, praised for his children and flocks, his mind distracted, as a flood carries off a sleeping village."
+        },
+        {
+          "number": 288,
+          "pali": "Na santi puttā tāṇāya na pitā nāpi bandhavā, antakenādhipannassa natthi ñātīsu tāṇatā.",
+          "english": "Sons are no help, nor a father, nor relations; there is no help from kinsfolk for one whom death has seized."
+        },
+        {
+          "number": 289,
+          "pali": "Etam atthavasaṃ ñatvā paṇḍito sīlasamvuto, nibbānagamanaṃ maggaṃ khippameva visodhaye.",
+          "english": "A wise and good man who knows the meaning of this, should quickly clear the way that leads to Nibbāna."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "pali_title": "Pakiṇṇakavagga",
+      "english_title": "Miscellaneous",
+      "verse_range": "290-305",
+      "verses": [
+        {
+          "number": 290,
+          "pali": "Mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ, caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ.",
+          "english": "If by giving up a lesser happiness one may behold a greater happiness, let the wise man give up the lesser happiness in consideration of the greater happiness."
+        },
+        {
+          "number": 291,
+          "pali": "Paradukkhūpadhānena attano sukhamicchati, verasaṃsaggasaṃsaṭṭho verā so na parimuccati.",
+          "english": "He who seeks his own happiness by inflicting pain on others, being entangled by the bonds of hatred, is never freed from hatred."
+        },
+        {
+          "number": 292,
+          "pali": "Yaṃ hi kiccaṃ tadapaviddhaṃ akiccaṃ pana kayirati, unnaḷānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā.",
+          "english": "What should be done is neglected, what should not be done is done. In those who are heedless and arrogant, the taints increase."
+        },
+        {
+          "number": 293,
+          "pali": "Yesañca susamāraddhā niccaṃ kāyagatā sati, akiccaṃ te na sevanti kicce sātaccakārino, satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā.",
+          "english": "But those who are always mindful of the body, who do not follow what should not be done, who steadfastly do what should be done, of those mindful and clearly comprehending ones, the taints come to an end."
+        },
+        {
+          "number": 294,
+          "pali": "Mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye, raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo.",
+          "english": "Having slain mother and father and two warrior kings, having destroyed the kingdom with its subjects, the brahmin goes untroubled."
+        },
+        {
+          "number": 295,
+          "pali": "Mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye, veyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo.",
+          "english": "Having slain mother and father and two brahmin kings, having slain the tiger as the fifth, the brahmin goes untroubled."
+        },
+        {
+          "number": 296,
+          "pali": "Suppabuddhaṃ pabujjhanti sadā gotamasāvakā, yesaṃ divā ca ratto ca niccaṃ buddhagatā sati.",
+          "english": "Well awakened the disciples of Gotama ever arise - they who by day and night are always mindful of the Buddha."
+        },
+        {
+          "number": 297,
+          "pali": "Suppabuddhaṃ pabujjhanti sadā gotamasāvakā, yesaṃ divā ca ratto ca niccaṃ dhammagatā sati.",
+          "english": "Well awakened the disciples of Gotama ever arise - they who by day and night are always mindful of the Dhamma."
+        },
+        {
+          "number": 298,
+          "pali": "Suppabuddhaṃ pabujjhanti sadā gotamasāvakā, yesaṃ divā ca ratto ca niccaṃ saṅghagatā sati.",
+          "english": "Well awakened the disciples of Gotama ever arise - they who by day and night are always mindful of the Sangha."
+        },
+        {
+          "number": 299,
+          "pali": "Suppabuddhaṃ pabujjhanti sadā gotamasāvakā, yesaṃ divā ca ratto ca niccaṃ kāyagatā sati.",
+          "english": "Well awakened the disciples of Gotama ever arise - they who by day and night are always mindful of the body."
+        },
+        {
+          "number": 300,
+          "pali": "Suppabuddhaṃ pabujjhanti sadā gotamasāvakā, yesaṃ divā ca ratto ca ahiṃsāya rato mano.",
+          "english": "Well awakened the disciples of Gotama ever arise - they who by day and night delight in non-violence."
+        },
+        {
+          "number": 301,
+          "pali": "Suppabuddhaṃ pabujjhanti sadā gotamasāvakā, yesaṃ divā ca ratto ca bhāvanāya rato mano.",
+          "english": "Well awakened the disciples of Gotama ever arise - they who by day and night delight in meditation."
+        },
+        {
+          "number": 302,
+          "pali": "Duppabbajjaṃ durabhiramaṃ durāvāsā gharā dukhā, dukkhosamānasaṃvāso dukkhānupatitaddhagū, tasmā na caddhagū siyā na ca dukkhānupatito siyā.",
+          "english": "Difficult is the life of renunciation, difficult to enjoy; difficult also is the household life, painful when one is with uncongenial people. The traveler in samsara is ever subject to pain. Therefore, be not a traveler in samsara; be not the one to be repeatedly subjected to pain."
+        },
+        {
+          "number": 303,
+          "pali": "Saddho sīlena sampanno yasobhogasamappito, yaṃ yaṃ padesaṃ bhajati tattha tattheva pūjito.",
+          "english": "He who is full of faith and virtue, possessed of fame and wealth, is honored wherever he goes."
+        },
+        {
+          "number": 304,
+          "pali": "Dūre santo pakāsenti himavanto va pabbato, asantettha na dissanti rattiṃ khittā yathā sarā.",
+          "english": "The good shine from afar like the Himalayan peaks. The bad are not seen here, like arrows shot in the night."
+        },
+        {
+          "number": 305,
+          "pali": "Ekāsanaṃ ekaseyyaṃ eko caramatandito, eko damayamattānaṃ vanante ramito siyā.",
+          "english": "Sitting alone, lying down alone, walking alone without being lazy, one who alone subdues himself would find delight in the forest."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "pali_title": "Nirayavagga",
+      "english_title": "Hell",
+      "verse_range": "306-319",
+      "verses": [
+        {
+          "number": 306,
+          "pali": "Abhūtavādī nirayaṃ upeti yo vāpi katvā na karomiccāha, ubho pi te pecca samā bhavanti nihīnakammā manujā parattha.",
+          "english": "He who speaks untruth goes to hell, as does he who having done (a wrong) says 'I did not do it.' Both, being men of base actions, become equal (in their fate) in the other world."
+        },
+        {
+          "number": 307,
+          "pali": "Kāsāvakaṇṭhā bahavo pāpadhammā asaññatā, pāpā pāpehi kammehi nirayaṃ te upapajjare.",
+          "english": "Many with yellow robes around their necks are of bad character and unrestrained. Being wicked, by wicked deeds they are reborn in hell."
+        },
+        {
+          "number": 308,
+          "pali": "Seyyo ayoguḷo bhutto tatto aggisikhūpamo, yañce bhuñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato.",
+          "english": "Better it is to swallow a red-hot iron ball, burning like a flame, than for an immoral and unrestrained person to eat the alms of the country."
+        },
+        {
+          "number": 309,
+          "pali": "Cattāri ṭhānāni naro pamatto āpajjati paradārūpasevī, apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatīyaṃ nirayaṃ catutthaṃ.",
+          "english": "Four misfortunes befall a heedless man who commits adultery: acquisition of demerit, disturbed sleep, blame as the third, and hell as the fourth."
+        },
+        {
+          "number": 310,
+          "pali": "Apuññalābho ca gatī ca pāpikā bhītassa bhītāya ratī ca thokikā, rājā ca daṇḍaṃ garukaṃ paṇeti, tasmā naro paradāraṃ na seve.",
+          "english": "There is acquisition of demerit as well as evil destiny. Brief is the joy of the frightened man and woman. The king imposes a heavy punishment. Therefore, let no man consort with another's wife."
+        },
+        {
+          "number": 311,
+          "pali": "Kuso yathā duggahito hatthamevānukantati, sāmaññaṃ dupparāmaṭṭhaṃ nirayāyupakaḍḍhati.",
+          "english": "Just as kusa grass, wrongly grasped, cuts the hand, so does the monastic life wrongly lived drag one to hell."
+        },
+        {
+          "number": 312,
+          "pali": "Yaṃ kiñci sithilaṃ kammaṃ saṃkiliṭṭhañca yaṃ vataṃ, saṅkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ.",
+          "english": "Whatever deed that is slack, whatever observance that is corrupt, suspicious celibate life - none of these bear much fruit."
+        },
+        {
+          "number": 313,
+          "pali": "Kayirā ce kayirāthenaṃ daḷhamenaṃ parakkame, sithilo hi paribbājo bhiyyo ākirate rajaṃ.",
+          "english": "If anything is to be done, let one do it with sustained vigor. A lax monastic life stirs up the dust (of passions) all the more."
+        },
+        {
+          "number": 314,
+          "pali": "Akataṃ dukkaṭaṃ seyyo pacchā tapati dukkaṭaṃ, katañca sukataṃ seyyo yaṃ katvā nānutappati.",
+          "english": "An evil deed is better left undone: a misdeed torments one later on. But a good deed is better done, doing which one does not grieve."
+        },
+        {
+          "number": 315,
+          "pali": "Nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ, evaṃ gopetha attānaṃ khaṇo vo mā upaccagā, khaṇātītā hi socanti nirayamhi samappitā.",
+          "english": "Like a border city guarded within and without, so guard yourself. Do not let the moment pass you by. Those who let the moment pass grieve when they are consigned to hell."
+        },
+        {
+          "number": 316,
+          "pali": "Alajjitāye lajjanti lajjitāye na lajjare, micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.",
+          "english": "Those who are ashamed of what they should not be ashamed of, and are not ashamed of what they should be ashamed of - such beings, embracing wrong views, go to the woeful state."
+        },
+        {
+          "number": 317,
+          "pali": "Abhaye bhayadassino bhaye cābhayadassino, micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.",
+          "english": "Those who see fear in what is not to be feared, and see no fear in the fearsome - such beings, embracing wrong views, go to the woeful state."
+        },
+        {
+          "number": 318,
+          "pali": "Avajje vajjamatino vajje cāvajjadassino, micchādiṭṭhisamādānā sattā gacchanti duggatiṃ.",
+          "english": "Those who see fault in the faultless, and see no fault in the faulty - such beings, embracing wrong views, go to the woeful state."
+        },
+        {
+          "number": 319,
+          "pali": "Vajjañca vajjato ñatvā avajjañca avajjato, sammādiṭṭhisamādānā sattā gacchanti suggatiṃ.",
+          "english": "Those who know the faulty as faulty, and the faultless as faultless - such beings, embracing right views, go to the blissful state."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pali_title": "Nāgavagga",
+      "english_title": "Elephant",
+      "verse_range": "320-333",
+      "verses": [
+        {
+          "number": 320,
+          "pali": "Ahaṃ nāgova saṅgāme cāpato patitaṃ saraṃ, ativākyaṃ titikkhissaṃ dussīlo hi bahujjano.",
+          "english": "Like an elephant in battle withstands the arrows shot from a bow, so will I endure abuse; verily, most people are ill-natured."
+        },
+        {
+          "number": 321,
+          "pali": "Dantaṃ nayanti samitiṃ dantaṃ rājābhirūhati, danto seṭṭho manussesu yotivākyaṃ titikkhati.",
+          "english": "The tamed (elephant) is led into a crowd; the king mounts the tamed (elephant). Best among men is the subdued one who endures abuse."
+        },
+        {
+          "number": 322,
+          "pali": "Varamassatarā dantā ājānīyā ca sindhavā, kuñjarā ca mahānāgā attadanto tato varaṃ.",
+          "english": "Good are trained mules, good are trained thoroughbred horses, good are trained great elephants. But better still is the one who has trained himself."
+        },
+        {
+          "number": 323,
+          "pali": "Na hi etehi yānehi gaccheyya agataṃ disaṃ, yathāttanā sudantena danto dantena gacchati.",
+          "english": "Surely never by these vehicles would one go to the untrodden land (Nibbana), as does one who is controlled through his well-controlled, tamed self."
+        },
+        {
+          "number": 324,
+          "pali": "Dhanapālako nāma kuñjaro kaṭukabhedano dunnivārayo, baddho kabaḷaṃ na bhuñjati sumarati nāgavanassa so.",
+          "english": "The elephant called Dhanapala, in rut and uncontrollable, does not eat a morsel when bound. He yearns for the elephant forest."
+        },
+        {
+          "number": 325,
+          "pali": "Middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī, mahāvarāhova nivāpapuṭṭho punappunaṃ gabbhamupeti mando.",
+          "english": "When one is sluggish and gluttonous, sleeping and rolling around in bed like a fat pig fed in the sty, such a fool is reborn again and again."
+        },
+        {
+          "number": 326,
+          "pali": "Idaṃ pure cittamacāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ, tadajjahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṅkusaggaho.",
+          "english": "Formerly this mind wandered as it liked, where it wished and according to its pleasure. Now I shall control it thoroughly, as a mahout controls an elephant in rut with a goad."
+        },
+        {
+          "number": 327,
+          "pali": "Appamādaratā hotha sacittamanurakkhatha, duggā uddharathattānaṃ paṅke sannova kuñjaro.",
+          "english": "Delight in heedfulness! Guard your mind well! Draw yourself out of the evil way as an elephant draws itself out of the mud."
+        },
+        {
+          "number": 328,
+          "pali": "Sace labhetha nipakaṃ sahāyaṃ saddhiṃ caraṃ sādhu vihāri dhīraṃ, abhibhuyya sabbāni parissayāni careyya tenattamano satīmā.",
+          "english": "If you find a wise companion, a fellow traveler leading a good life and acting wisely, you should travel with him joyfully and mindfully, overcoming all dangers."
+        },
+        {
+          "number": 329,
+          "pali": "No ce labhetha nipakaṃ sahāyaṃ saddhiṃ caraṃ sādhu vihāri dhīraṃ, rājāva raṭṭhaṃ vijitaṃ pahāya eko care mātaṅgaraññe va nāgo.",
+          "english": "If you do not find a wise companion, a fellow traveler leading a good life and acting wisely, then like a king who leaves his conquered kingdom, travel alone like an elephant in the elephant forest."
+        },
+        {
+          "number": 330,
+          "pali": "Ekassa caritaṃ seyyo natthi bāle sahāyatā, eko care na ca pāpāni kayirā appossukko mātaṅgaraññe va nāgo.",
+          "english": "Better it is to travel alone; there is no fellowship with a fool. Let one travel alone and commit no sin, with few wishes like an elephant in the elephant forest."
+        },
+        {
+          "number": 331,
+          "pali": "Atthamhi jātamhi sukhā sahāyā tuṭṭhī sukhā yā itarītarena, puññaṃ sukhaṃ jīvitasaṅkhayamhi pāpassa parivajaanaṃ sukhaṃ.",
+          "english": "Pleasant are friends when need arises; pleasant is satisfaction with whatever (one has); pleasant is merit when life is at an end; pleasant is the shunning of all evil."
+        },
+        {
+          "number": 332,
+          "pali": "Sukhā matteyyatā loke atho petteyyatā sukhā, sukhā sāmaññatā loke atho brahmññatā sukhā.",
+          "english": "Pleasant in this world is reverence to mother; pleasant too is reverence to father; pleasant is reverence to ascetics; pleasant too is reverence to the noble ones."
+        },
+        {
+          "number": 333,
+          "pali": "Sukhaṃ yāva jarā sīlaṃ sukhā saddhā patiṭṭhitā, sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ.",
+          "english": "Pleasant is virtue until old age; pleasant is steadfast faith; pleasant is the acquisition of wisdom; pleasant is the non-commission of evil."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "pali_title": "Taṇhāvagga",
+      "english_title": "Craving",
+      "verse_range": "334-359",
+      "verses": [
+        {
+          "number": 334,
+          "pali": "Manujassa pamattacārino taṇhā vaḍḍhati māluvā viya, so plavatī hurāhuraṃ phalamicchaṃva vanasmi vānaro.",
+          "english": "The craving of the heedless man grows like a creeper. He jumps from life to life like a monkey seeking fruit in the forest."
+        },
+        {
+          "number": 335,
+          "pali": "Yaṃ esā sahate jammī taṇhā loke visattikā, sokā tassa pavaḍḍhanti abhivaṭṭhaṃva bīraṇaṃ.",
+          "english": "Whoever is overcome by this wretched, clinging craving, his sorrows grow like grass after rain."
+        },
+        {
+          "number": 336,
+          "pali": "Yo cetaṃ sahate jammiṃ taṇhaṃ loke duraccayaṃ, sokā tamhā papatanti udabinduva pokkharā.",
+          "english": "But whoever overcomes this wretched craving, so difficult to overcome, sorrows fall away from him like water drops from a lotus leaf."
+        },
+        {
+          "number": 337,
+          "pali": "Taṃ vo vadāmi bhaddaṃ vo yāvantettha samāgatā, taṇhāya mūlaṃ khaṇatha usīratthova bīraṇaṃ, mā vo naḷaṃva sotova māro bhañji punappunaṃ.",
+          "english": "This I say to you: Good luck to you all who have assembled here! Dig up the root of craving like one who digs up birana grass for its fragrant root. Do not let Mara crush you again and again as a flood crushes a reed."
+        },
+        {
+          "number": 338,
+          "pali": "Yathāpi mūle anupaddave daḷhe chinnopi rukkho punareva rūhati, evampi taṇhānusaye anūhate nibbattatī dukkhamidaṃ punappunaṃ.",
+          "english": "Just as a tree with roots unharmed and firm, though hewn down, sprouts again, even so while latent craving is not rooted out, this suffering arises again and again."
+        },
+        {
+          "number": 339,
+          "pali": "Yassa chattiṃsati sotā manāpasavanā bhusā, vāhā vahanti duddiṭṭhiṃ saṅkappā rāganissitā.",
+          "english": "The man in whom the thirty-six streams (of craving) that flow towards pleasurable objects are strong, is swept away by the current of his thoughts which are based on passion."
+        },
+        {
+          "number": 340,
+          "pali": "Savanti sabbadhi sotā latā ubbhijja tiṭṭhati, tañca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha.",
+          "english": "Streams (of craving) flow everywhere; the creeper sprouts and stands. Seeing the creeper that has sprung up, cut off the root with wisdom."
+        },
+        {
+          "number": 341,
+          "pali": "Saritāni sinehitāni ca somanassāni bhavanti jantuno, te sātasitā sukhesino te ve jātijarūpagā.",
+          "english": "Flowing and soaked with craving are the joys of beings. Bent on pleasure and seeking happiness, such men fall prey to birth and decay."
+        },
+        {
+          "number": 342,
+          "pali": "Tasiṇāya purakkhatā pajā parisappanti sasova bandhito, saṃyojanasaṅgasattā dukkhamupenti punappunaṃ cirāya.",
+          "english": "Beset by craving, people run about like an ensnared hare. Held fast by mental fetters and bonds, they undergo suffering again and again, for long."
+        },
+        {
+          "number": 343,
+          "pali": "Tasiṇāya purakkhatā pajā parisappanti sasova bandhito, tasmā tasiṇaṃ vinodaye bhikkhu ākaṅkhī virāgamattano.",
+          "english": "Beset by craving, people run about like an ensnared hare. Therefore, let the monk who desires his own freedom from passion, shake off craving."
+        },
+        {
+          "number": 344,
+          "pali": "Yo vanādhimutto vanamutto vanameva dhāvati, taṃ puggalametha passatha mutto bandhanaṃeva dhāvati.",
+          "english": "He who having left the forest (of household life) gives himself over to the forest (of the senses), and having been freed from the forest runs back to the forest (of desire), come, behold that man! Though freed, he runs back to bondage."
+        },
+        {
+          "number": 345,
+          "pali": "Na taṃ daḷhaṃ bandhanamāhu dhīrā yadāyasaṃ dārujapabbajañca, sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekhā.",
+          "english": "That is not a strong fetter, say the wise, which is made of iron, wood or hemp. But the infatuation and longing for jewels and ornaments, children and wives - that the wise say is a far stronger fetter."
+        },
+        {
+          "number": 346,
+          "pali": "Etaṃ daḷhaṃ bandhanamāhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ, etampi chetvāna paribbajanti anapekkhino kāmasukhaṃ pahāya.",
+          "english": "That fetter the wise call strong, which drags down, is supple, and hard to loosen. Having cut even this, they wander forth, free from longing and abandoning sensual pleasures."
+        },
+        {
+          "number": 347,
+          "pali": "Ye rāgarattānupatanti sotaṃ sayaṃkataṃ makkaṭakova jālaṃ, etampi chetvāna vajanti dhīrā anapekkhino sabbadukkhaṃ pahāya.",
+          "english": "Those who are infatuated with lust fall back into the stream as does a spider into the web spun by itself. Having cut even this, the wise wander forth, free from longing, abandoning all suffering."
+        },
+        {
+          "number": 348,
+          "pali": "Muñca pure muñca pacchato majjhe muñca bhavassa pāragū, sabbattha vimuttamānaso na punaṃ jātijaraṃ upehisi.",
+          "english": "Let go of the past, let go of the future, let go of the present. Having crossed to the farther shore of existence, with mind released from all, you will not again undergo birth and decay."
+        },
+        {
+          "number": 349,
+          "pali": "Vitakkamathitassa jantuno tibbarāgassa subhānupassino, bhiyyo taṇhā pavaḍḍhati esa kho daḷhaṃ karoti bandhanaṃ.",
+          "english": "For the person who is disturbed by thoughts, who has strong passions, who sees only the beautiful, craving increases more and more. Such a one makes the fetter strong."
+        },
+        {
+          "number": 350,
+          "pali": "Vitakkasamathaṃ rato asubhaṃ bhāvayatī sadā, sato esa vyantikāhiti esa checchati mārabandhaṃ.",
+          "english": "But he who delights in subduing thoughts, who meditates on the impurities, who is ever mindful - it is he who will make an end of craving and rend asunder Mara's fetter."
+        },
+        {
+          "number": 351,
+          "pali": "Niṭṭhaṅgato asantāsī vītataṇho anaṅgaṇo, acchindi bhavasallāni antimoyaṃ samussayo.",
+          "english": "He who has reached the goal, who is fearless, who is without craving, who is passionless, has broken the thorns of existence. This is his last body."
+        },
+        {
+          "number": 352,
+          "pali": "Vītataṇho anādāno niruttipadakovido, akkharānaṃ sannipātaṃ jaññā pubbāparāni ca, sa ve antimasārīro mahāpurisoti vuccati.",
+          "english": "He who is without craving and grasping, who is skilled in etymology and knows the meaning of words, who knows the order of letters - he is called the great man, bearer of his final body."
+        },
+        {
+          "number": 353,
+          "pali": "Sabbābhibhū sabbavidūhamasmi sabbesu dhammesu anūpalitto, sabbañjaho taṇhākkhaye vimutto sayaṃ abhiññāya kamuddiseyyaṃ.",
+          "english": "I have conquered all, I know all, I am unattached to all things, I have renounced all, I am freed through the destruction of craving. Having realized this by myself, whom shall I call my teacher?"
+        },
+        {
+          "number": 354,
+          "pali": "Sabbadānaṃ dhammadānaṃ jināti sabbarasaṃ dhammaraso jināti, sabbaratiṃ dhammarati jināti taṇhākkhayo sabbadukkhaṃ jināti.",
+          "english": "The gift of Dhamma surpasses all gifts; the taste of Dhamma surpasses all tastes; the joy in Dhamma surpasses all joys. The destruction of craving conquers all suffering."
+        },
+        {
+          "number": 355,
+          "pali": "Hananti bhogā dummedhaṃ no ca pāragavesino, bhogataṇhāya dummedho hanti aññeva attanaṃ.",
+          "english": "Riches destroy the foolish, but not those who seek the beyond. Through craving for riches the foolish one destroys himself as (if he were destroying) others."
+        },
+        {
+          "number": 356,
+          "pali": "Tiṇadosāni khettāni rāgadosā ayaṃ pajā, tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ.",
+          "english": "Weeds are the bane of fields; lust is the bane of mankind. Therefore, offerings made to those free from lust yield abundant fruit."
+        },
+        {
+          "number": 357,
+          "pali": "Tiṇadosāni khettāni dosadosā ayaṃ pajā, tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ.",
+          "english": "Weeds are the bane of fields; hatred is the bane of mankind. Therefore, offerings made to those free from hatred yield abundant fruit."
+        },
+        {
+          "number": 358,
+          "pali": "Tiṇadosāni khettāni mohadosā ayaṃ pajā, tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ.",
+          "english": "Weeds are the bane of fields; delusion is the bane of mankind. Therefore, offerings made to those free from delusion yield abundant fruit."
+        },
+        {
+          "number": 359,
+          "pali": "Tiṇadosāni khettāni icchādosā ayaṃ pajā, tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ.",
+          "english": "Weeds are the bane of fields; desire is the bane of mankind. Therefore, offerings made to those free from desire yield abundant fruit."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "pali_title": "Bhikkhuvagga",
+      "english_title": "Bhikkhu",
+      "verse_range": "360-382",
+      "verses": [
+        {
+          "number": 360,
+          "pali": "Cakkhunā saṃvaro sādhu sādhu sotena saṃvaro, ghānena saṃvaro sādhu sādhu jivhāya saṃvaro.",
+          "english": "Good is restraint in the eye; good is restraint in the ear; good is restraint in the nose; good is restraint in the tongue."
+        },
+        {
+          "number": 361,
+          "pali": "Kāyena saṃvaro sādhu sādhu vācāya saṃvaro, manasā saṃvaro sādhu sādhu sabbattha saṃvaro, sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati.",
+          "english": "Good is restraint in the body; good is restraint in speech; good is restraint in the mind; restraint everywhere is good. The monk who is restrained everywhere is freed from all suffering."
+        },
+        {
+          "number": 362,
+          "pali": "Hattha-saññato pāda-saññato vācāya saññato saññatuttamo, ajjhattarato samāhito eko santusito tamāhu bhikkhun ti.",
+          "english": "He who is restrained in hand, restrained in foot, restrained in speech, and supremely restrained, who delights in inward calm, who is composed, solitary, and content - him they call a monk."
+        },
+        {
+          "number": 363,
+          "pali": "Yo mukhasaññato bhikkhu mantabhāṇī anuddhato, atthaṃ dhammañca dīpeti madhuraṃ tassa bhāsitaṃ.",
+          "english": "That monk who is controlled in tongue, who speaks wisely, who is not puffed up, who explains the meaning and the Dhamma - sweet is his speech."
+        },
+        {
+          "number": 364,
+          "pali": "Dhammārāmo dhammarato dhammaṃ anuvicintayaṃ, dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati.",
+          "english": "That monk who dwells in the Dhamma, who delights in the Dhamma, who meditates on the Dhamma, who well remembers the Dhamma, does not fall away from the true Dhamma."
+        },
+        {
+          "number": 365,
+          "pali": "Salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care, aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati.",
+          "english": "Let him not despise what he has received, nor envy the gains of others. The monk who envies the gains of others does not attain concentration."
+        },
+        {
+          "number": 366,
+          "pali": "Appalābhopi ce bhikkhu salābhaṃ nātimaññati, taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ.",
+          "english": "Even if a monk receives only a little, if he does not despise what he has received, the gods praise such a one who is pure in livelihood and is not lazy."
+        },
+        {
+          "number": 367,
+          "pali": "Sabbaso nāmarūpasmiṃ yassa natthi mamāyitaṃ, asatā ca na socati sa ve bhikkhūti vuccati.",
+          "english": "He who has no attachment whatsoever for name and form (mind and body), who does not grieve for that which is non-existent - he is truly called a monk."
+        },
+        {
+          "number": 368,
+          "pali": "Mettāvihārī yo bhikkhu pasanno buddhasāsane, adhigacche padaṃ santaṃ saṅkhārūpasamaṃ sukhaṃ.",
+          "english": "That monk who dwells in loving-kindness, who is pleased with the Buddha's teaching, attains the peaceful state, the bliss of the cessation of conditioned existence."
+        },
+        {
+          "number": 369,
+          "pali": "Siñca bhikkhu imaṃ nāvaṃ sittā te lahumessati, chetvā rāgañca dosañca tato nibbānamehisi.",
+          "english": "Empty this boat, O monk! Emptied, it will sail lightly. Having cut off lust and hatred, you will thereby reach Nibbana."
+        },
+        {
+          "number": 370,
+          "pali": "Pañca chinde pañca jahe pañca cuttari bhāvaye, pañca saṅgātigo bhikkhu oghatinnoti vuccati.",
+          "english": "Cut off the five, abandon the five, cultivate the five more. The monk who has overcome the five attachments is called 'One who has crossed the flood.'"
+        },
+        {
+          "number": 371,
+          "pali": "Jhāya bhikkhu mā ca pramādo mā te kāmaguṇe bhamassu cittaṃ, mā lohaguḷaṃ gilī pamatto mā kandī dukkhamidanti ḍayhamāno.",
+          "english": "Meditate, O monk! Do not be heedless. Let not your mind whirl on sensual pleasures. Do not heedlessly swallow a red-hot iron ball, lest you cry 'Oh, the pain!' when burning."
+        },
+        {
+          "number": 372,
+          "pali": "Natthi jhānaṃ apaññassa paññā natthi ajhāyato, yamhi jhānañca paññā ca sa ve nibbānasantike.",
+          "english": "There is no concentration for one who lacks wisdom; there is no wisdom for one who lacks concentration. He in whom are both concentration and wisdom is close to Nibbana."
+        },
+        {
+          "number": 373,
+          "pali": "Suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno, amānusī ratī hoti sammā dhammaṃ vipassato.",
+          "english": "The monk who has entered an empty house (i.e., whose mind is empty of the three poisons), whose mind is calm, who perceives the Dhamma clearly, experiences a joy that transcends all human joys."
+        },
+        {
+          "number": 374,
+          "pali": "Yato yato sammasati khandhānaṃ udayabbayaṃ, labhatī pītipāmojjaṃ amataṃ taṃ vijānatāṃ.",
+          "english": "Whenever he reflects on the rise and fall of the aggregates, he gains joy and happiness. That, for those who know, is the Deathless."
+        },
+        {
+          "number": 375,
+          "pali": "Tatrāyamādi bhavati idha paññassa bhikkhuno, indriyagutti santuṭṭhi pātimokkhe ca saṃvaro.",
+          "english": "This, then, is the beginning for a wise monk: guarding the senses, contentment, restraint according to the fundamental moral code."
+        },
+        {
+          "number": 376,
+          "pali": "Mitte bhajassu kalyāṇe suddhājīve atandite, paṭisanthāravutyassa ācārakusalo siyā, tato pāmojjabahulo dukkhassantaṃ karissati.",
+          "english": "Associate with good friends who are pure in livelihood and not lazy. Let one be skilled in conduct and courtesy, and as a result be full of joy and make an end to suffering."
+        },
+        {
+          "number": 377,
+          "pali": "Vassikā viya pupphāni maddavāni pamuñcati, evaṃ rāgañca dosañca vippamuñcetha bhikkhavo.",
+          "english": "Just as the jasmine sheds its withered flowers, so, O monks, should you shed lust and hatred."
+        },
+        {
+          "number": 378,
+          "pali": "Santakāyo santavāco santavā susamāhito, vantalokāmiso bhikkhu upasantoti vuccati.",
+          "english": "The monk who is calm in body, calm in speech, calm in mind, who is well-composed and has spewed out worldly things - he is truly called 'Peaceful.'"
+        },
+        {
+          "number": 379,
+          "pali": "Attanā codayattānaṃ attamanuvitakkehi, so attagutto satimā sukhaṃ bhikkhu vihāhisi.",
+          "english": "By oneself one must censure oneself and scrutinize oneself. The monk who is self-guarded and mindful will live happily."
+        },
+        {
+          "number": 380,
+          "pali": "Attā hi attano nātho attā hi attano gati, tasmā saññamayattānaṃ assaṃ bhadraṃva vāṇijo.",
+          "english": "Self is the master of self, self is the refuge of self. Therefore, control yourself as a merchant controls a noble horse."
+        },
+        {
+          "number": 381,
+          "pali": "Pāmojjabahulo bhikkhu pasanno buddhasāsane, adhigacche padaṃ santaṃ saṅkhārūpasamaṃ sukhaṃ.",
+          "english": "The monk who is full of joy, who is pleased with the Buddha's teaching, attains the peaceful state, the bliss of the cessation of conditioned existence."
+        },
+        {
+          "number": 382,
+          "pali": "Yo have daharo bhikkhu yuñjati buddhasāsane, so imaṃ lokaṃ pabhāseti abbhā muttova candimā.",
+          "english": "That monk who, though young, applies himself to the Buddha's teaching, illuminates this world like the moon freed from clouds."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "pali_title": "Brāhmaṇavagga",
+      "english_title": "Brahmin",
+      "verse_range": "383-423",
+      "verses": [
+        {
+          "number": 383,
+          "pali": "Chinda sotaṃ parakkamma kāme panuda brāhmaṇa, saṅkhārānaṃ khayaṃ ñatvā akataññūsi brāhmaṇa.",
+          "english": "Strive and cut the stream! Dispel sensual desires, O brahmin! Knowing the destruction of conditioned things, be a knower of the Uncreated, O brahmin!"
+        },
+        {
+          "number": 384,
+          "pali": "Yadā dvayesu dhammeu pāragū hoti brāhmaṇo, athassa sabbe saṃyogā atthaṃ gacchanti jānato.",
+          "english": "When the brahmin has crossed beyond the two states (of tranquillity and insight), then all the fetters of that knowing one disappear."
+        },
+        {
+          "number": 385,
+          "pali": "Yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati, vītaddaraṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "For whom there exists neither the farther shore nor the nearer shore, nor both farther and nearer shores, who is free from distress and fetters - him I call a brahmin."
+        },
+        {
+          "number": 386,
+          "pali": "Jhāyiṃ virajamāsīnaṃ katakiccamanāsavaṃ, uttamatthamanuppattaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who is meditative, free from dust, settled, whose task is done, who is free from taints, who has attained the highest goal - him I call a brahmin."
+        },
+        {
+          "number": 387,
+          "pali": "Divā tapati ādicco rattiṃ ābhāti candimā, sannaddho khattiyo tapati jhāyī tapati brāhmaṇo, atha sabbamahorattiṃ buddho tapati tejasā.",
+          "english": "The sun shines by day, the moon by night. The warrior shines in armor, the brahmin shines in meditation. But all day and night the Buddha shines in glory."
+        },
+        {
+          "number": 388,
+          "pali": "Bāhitapāpoti brāhmaṇo samacariyā samaṇoti vuccati, pabbājayamattano malaṃ tasmā pabbajitoti vuccati.",
+          "english": "Because he has discarded evil, he is called a 'brahmin'; because he lives in peace, he is called a 'recluse'; because he has renounced his impurities, he is called a 'renunciant.'"
+        },
+        {
+          "number": 389,
+          "pali": "Na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo, dhī brāhmaṇassa hantāraṃ tato dhī yassa muñcati.",
+          "english": "One should not strike a brahmin, nor should a brahmin give way to anger. Shame on him who strikes a brahmin! More shame on him who gives way to anger!"
+        },
+        {
+          "number": 390,
+          "pali": "Na brāhmaṇassetadakiñci seyyo yadā nisedho manaso piyehi, yato yato hiṃsamano nivattati tato tato sammati-meva dukkhaṃ.",
+          "english": "Nothing is better for a brahmin than when he restrains his mind from pleasant things. Whenever the intent to harm subsides, suffering is calmed."
+        },
+        {
+          "number": 391,
+          "pali": "Yassa kāyena vācāya manasā natthi dukkaṭaṃ, saṃvutaṃ tīhi ṭhānehi tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who does no evil in body, speech or mind, who is restrained in these three ways - him I call a brahmin."
+        },
+        {
+          "number": 392,
+          "pali": "Yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ, sakkaccaṃ taṃ namasseyya aggihuttaṃva brāhmaṇo.",
+          "english": "From whomever one would learn the Dhamma taught by the Perfectly Enlightened Buddha, let him worship that teacher respectfully, as a brahmin worships the sacrificial fire."
+        },
+        {
+          "number": 393,
+          "pali": "Na jaṭāhi na gottena na jaccā hoti brāhmaṇo, yamhi saccañca dhammo ca so sucī so ca brāhmaṇo.",
+          "english": "Not by matted hair, nor by clan, nor by birth does one become a brahmin. He in whom truth and dhamma exist, he is pure, he is a brahmin."
+        },
+        {
+          "number": 394,
+          "pali": "Kiṃ te jaṭāhi dummedha kiṃ te ajinasāṭiyā, abbhantaraṃ te gahanaṃ bāhiraṃ parimajjasi.",
+          "english": "What is the use of your matted hair, O fool? What is the use of your deerskin garment? Within you is the tangle (of passions); you clean only the outside."
+        },
+        {
+          "number": 395,
+          "pali": "Paṃsukūladharaṃ jantuṃ kisaṃ dhamanisanthataṃ, ekaṃ vanasmiṃ jhāyantaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "The person who wears robes made of rags, who is lean, whose veins stand out, who meditates alone in the forest - him I call a brahmin."
+        },
+        {
+          "number": 396,
+          "pali": "Na cāhaṃ brāhmaṇaṃ brūmi yonijaṃ mattisambhavaṃ, bhovādī nāma so hoti sace hoti sakiñcano, akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "I do not call him a brahmin merely because he is born of a (brahmin) womb or sprung from a (brahmin) mother. He is merely a 'bho-sayer' if he has possessions. He who has nothing and takes nothing - him I call a brahmin."
+        },
+        {
+          "number": 397,
+          "pali": "Sabbasaṃyojanaṃ chetvā yo ve na paritassati, saṅgātigaṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has cut all fetters and does not tremble, who has gone beyond bonds and is unattached - him I call a brahmin."
+        },
+        {
+          "number": 398,
+          "pali": "Chetvā naddhiṃ varattañca sandānaṃ sahanukkamaṃ, ukkhittapalighaṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has cut the strap (hatred) and the thong (craving), and the rope (wrong views) together with the appendages (latent tendencies), who has lifted the crossbar (ignorance), who is enlightened - him I call a brahmin."
+        },
+        {
+          "number": 399,
+          "pali": "Akkosaṃ vadhabandhañca aduṭṭho yo titikkhati, khantībalaṃ balānīkaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who without anger endures abuse, beating and imprisonment, whose power is patience and whose army is fortitude - him I call a brahmin."
+        },
+        {
+          "number": 400,
+          "pali": "Akkodhanaṃ vatavantaṃ sīlavantaṃ anussadaṃ, dantaṃ antimasārīraṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who is free from anger, who observes religious duties, who is virtuous, free from craving, who is subdued and bears his final body - him I call a brahmin."
+        },
+        {
+          "number": 401,
+          "pali": "Vāri pokkharapatteva āraggeriva sāsapo, yo na limpati kāmesu tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "Like water on a lotus leaf, like a mustard seed on the point of a needle, he who is not attached to sensual pleasures - him I call a brahmin."
+        },
+        {
+          "number": 402,
+          "pali": "Yo dukkhassa pajānāti idheva khayamattano, pannabhāraṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who realizes here in this life the end of his suffering, who has laid down the burden and is unattached - him I call a brahmin."
+        },
+        {
+          "number": 403,
+          "pali": "Gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ, uttamatthamanuppattaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He whose wisdom is deep, who is wise, who is skilled in the right and wrong path, who has attained the highest goal - him I call a brahmin."
+        },
+        {
+          "number": 404,
+          "pali": "Asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi cūbhayaṃ, anokasāriṃ appicchhaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who is not intimate with householders or with the homeless, who wanders without an abode, who is of few desires - him I call a brahmin."
+        },
+        {
+          "number": 405,
+          "pali": "Nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca, yo na hanti na ghāteti tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has laid down the rod with regard to beings, moving and unmoving, who neither harms nor kills - him I call a brahmin."
+        },
+        {
+          "number": 406,
+          "pali": "Aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ, sādānesu anādānaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who is friendly among the hostile, peaceful among the violent, unattached among the attached - him I call a brahmin."
+        },
+        {
+          "number": 407,
+          "pali": "Yassa rāgo ca doso ca māno makkho ca pātito, sāsaporiva āraggā tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He from whom lust, hatred, pride and hypocrisy have fallen away, like a mustard seed from the point of a needle - him I call a brahmin."
+        },
+        {
+          "number": 408,
+          "pali": "Akakkasaṃ viññāpaniṃ giraṃ saccamudāhare, yāya nābhisaje kañci tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who speaks gentle, instructive, truthful words, by which he offends no one - him I call a brahmin."
+        },
+        {
+          "number": 409,
+          "pali": "Yo'dha dīghaṃ va rassaṃ vā aṇuṃ thūlaṃ subhāsubhaṃ, loke adinnaṃ nādiyati tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who in this world takes nothing that is not given, be it long or short, small or large, fair or foul - him I call a brahmin."
+        },
+        {
+          "number": 410,
+          "pali": "Āsā yassa na vijjanti asmiṃ loke paramhi ca, nirāsāsaṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He in whom there are no desires for this world or the next, who is free from desires and unattached - him I call a brahmin."
+        },
+        {
+          "number": 411,
+          "pali": "Yassālayā na vijjanti aññāya akathaṅkathī, amatogadhamanuppattaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has no attachments, who through knowledge has no doubts, who has reached the depth of the Deathless - him I call a brahmin."
+        },
+        {
+          "number": 412,
+          "pali": "Yo'dha puññañca pāpañca ubho saṅgamupaccagā, asokaṃ virajaṃ suddhaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has here transcended both good and evil attachments, who is sorrowless, stainless and pure - him I call a brahmin."
+        },
+        {
+          "number": 413,
+          "pali": "Candaṃva vimalaṃ suddhaṃ vippasannamanāvilaṃ, nandībhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who like the moon is spotless, pure, clear and unagitated, in whom delight in existence is extinct - him I call a brahmin."
+        },
+        {
+          "number": 414,
+          "pali": "Yo imaṃ palighaṃ duggaṃ saṃsāraṃ mohamaccagā, tiṇṇo pāragato jhāyī anejo akathaṅkathī, anupādāya nibbuto tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has passed beyond this dangerous, difficult path of samsara and delusion, who has crossed over, reached the other shore, is meditative, free from craving, free from doubts, who clinging to nothing has attained Nibbana - him I call a brahmin."
+        },
+        {
+          "number": 415,
+          "pali": "Yo'dha kāme pahantvāna anāgāro paribbaje, kāmabhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has here given up sensual desires and wanders forth as a homeless one, in whom sensual desire and existence are extinct - him I call a brahmin."
+        },
+        {
+          "number": 416,
+          "pali": "Yo'dha taṇhaṃ pahantvāna anāgāro paribbaje, taṇhābhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has here given up craving and wanders forth as a homeless one, in whom craving and existence are extinct - him I call a brahmin."
+        },
+        {
+          "number": 417,
+          "pali": "Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā, sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has given up human bonds, transcended heavenly bonds, who is completely unbound - him I call a brahmin."
+        },
+        {
+          "number": 418,
+          "pali": "Hitvā ratiñca aratiñca sītibhūtaṃ nirūpadhiṃ, sabbalokābhibhuṃ vīraṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has given up pleasure and displeasure, who is cooled and free from substrates, the hero who has conquered all the worlds - him I call a brahmin."
+        },
+        {
+          "number": 419,
+          "pali": "Cutiṃ yo vedi sattānaṃ upapattiñca sabbaso, asattaṃ sugataṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who knows in every way the death and rebirth of beings, who is unattached, well-gone, awakened - him I call a brahmin."
+        },
+        {
+          "number": 420,
+          "pali": "Yassa gatiṃ na jānanti devā gandhabbamānusā, khīṇāsavaṃ arahantaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He whose destination the gods, gandharvas and men do not know, who has destroyed the taints, who is an arahant - him I call a brahmin."
+        },
+        {
+          "number": 421,
+          "pali": "Yassa pure ca pacchā ca majjhe ca natthi kiñcanaṃ, akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who has nothing before, behind or in between, who possesses nothing and grasps nothing - him I call a brahmin."
+        },
+        {
+          "number": 422,
+          "pali": "Usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ, anejaṃ nhātakaṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who is a bull among men, noble, heroic, a great sage, a conqueror, free from craving, cleansed, awakened - him I call a brahmin."
+        },
+        {
+          "number": 423,
+          "pali": "Pubbenivāsaṃ yo vedi saggāpāyañca passati, atho jātikkhayaṃ patto abhiññāvosito muni, sabbavositavosānaṃ tamahaṃ brūmi brāhmaṇaṃ.",
+          "english": "He who knows his former lives, who sees heaven and hell, who has reached the end of births, who has perfected supernormal knowledge, the sage who has completed all that is to be completed - him I call a brahmin."
+        }
+      ]
+    }
+  ]
+} 
