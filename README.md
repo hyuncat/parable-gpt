@@ -8,7 +8,7 @@ Uses RAG (Retrival-augmented generation) to enrich the prompt. We draw from the 
 - Bible - Christianity
 - Dhammapada - Buddhism
 - Qur'an - Islam
-- Tao Te Ching - Daoism / Confucianism
+- Tao Te Ching - Taoism
 
 A detailed explanation and walkthrough of my data preparation and methods are detailed in `usage.ipynb`.
 
