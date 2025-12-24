@@ -10,6 +10,8 @@ Uses RAG (Retrival-augmented generation) to enrich the prompt. We draw from the 
 - Qur'an - Islam
 - Tao Te Ching - Daoism / Confucianism
 
+A detailed explanation and walkthrough of my data preparation and methods are detailed in `usage.ipynb`.
+
 ## Usage
 
 To get the program working on your local machine, you will need Ollama installed on your computer alongside an installation of `Llama 3.1-8B-Instruct` or another Llama of choice.
